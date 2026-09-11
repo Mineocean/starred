@@ -129,7 +129,7 @@
     "html_url": "https://github.com/anywhere-labs/dsh-desktop",
     "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
     "language": "TypeScript",
-    "stargazers_count": 25355,
+    "stargazers_count": 25356,
     "forks_count": 1226,
     "topics": [
       "cordis",
@@ -443,7 +443,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2025-04-30T20:08:00Z",
-    "pushed_at": "2026-09-11T02:59:21Z",
+    "pushed_at": "2026-09-11T03:01:04Z",
     "license": "MIT"
   },
   {
@@ -677,7 +677,7 @@
     "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
     "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
     "language": "Python",
-    "stargazers_count": 122277,
+    "stargazers_count": 122278,
     "forks_count": 18886,
     "topics": [
       "ai-video-generator",
@@ -1068,7 +1068,7 @@
     "html_url": "https://github.com/sdyzjx/open-yachiyo",
     "description": null,
     "language": "JavaScript",
-    "stargazers_count": 336,
+    "stargazers_count": 337,
     "forks_count": 13,
     "topics": [],
     "archived": false,
@@ -2163,7 +2163,7 @@
     "html_url": "https://github.com/seerge/g-helper",
     "description": "Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more.",
     "language": "C#",
-    "stargazers_count": 15116,
+    "stargazers_count": 15117,
     "forks_count": 581,
     "topics": [
       "ally",
@@ -3400,7 +3400,7 @@
     "html_url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
     "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
     "language": "Batchfile",
-    "stargazers_count": 190088,
+    "stargazers_count": 190089,
     "forks_count": 18107,
     "topics": [
       "activator",

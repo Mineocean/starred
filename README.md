@@ -1,7 +1,7 @@
 # ⭐ 我的 GitHub 星标清单
 
-> 共 **172** 个仓库 · 合计 **3,771,523** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
-> 最近同步：2026-09-11 11:00 +0800 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
+> 共 **172** 个仓库 · 合计 **3,771,528** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
+> 最近同步：2026-09-11 03:01 +0000 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
 > 其中 **65** 个仓库的英文简介已译为中文（见 [`i18n/zh.json`](i18n/zh.json)）
 
 在线查看：[github.com/Mineocean?tab=stars](https://github.com/Mineocean?tab=stars)
@@ -37,7 +37,7 @@
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 95,455 | TypeScript | 🎨 最好的 DeepSeek Harness 设计插件，开源版 Claude Design 替代品。🖥️ 本地优先的桌面应用。🖼️ 让编码 Agent 变成设计引擎：原型、落地页、仪表盘、幻灯片、图片与视频，产出真实文件，可导出 HTML/PDF/PPTX/MP4。🤖 通过 BYOK 接入 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode 等 20+ CLI。 |
-| [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 25,355 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
+| [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 25,356 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | 7,347 | TypeScript | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发。 |
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,810 | Python | 让任何 Agent Harness 原生支持多模态。 |
 | [MerZlin/dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop) | 349 | Python | 基于项目PC2005-cloud/dsh-pet.git，将桌宠移植到Windows、Linux和MacOS上，现在可以随时看到蓝色大肥鱼了：），本项目还额外实现了其他交互功能，欢迎体验 |
@@ -88,7 +88,7 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 122,277 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 122,278 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 49,033 | TypeScript | 💖🧸 自托管、完全属于你的 AI 伴侣：一个装载老婆 / 赛博生命灵魂的容器，目标是达到 Neuro-sama 的高度。支持实时语音聊天，能玩 Minecraft 和 Factorio，覆盖 Web / macOS / Windows。 |
 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 40,346 | Python | AI Agent 助手与开发框架，集成多种 IM 平台、LLM、插件与 AI 能力，可以作为 openclaw 的替代方案。✨ |
 | [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 15,584 | TypeScript | 一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana pro🍌 |
@@ -198,7 +198,7 @@
 | [Tsuk1ko/nhentai-helper](https://github.com/Tsuk1ko/nhentai-helper) | 823 | TypeScript | 🔞 A user script make it easy for you to download nHentai manga as zip (or cbz), also support some mirror sites. 一个可以让你轻松打包下载 nHentai 本子的用户脚本，并支持一些镜像站 |
 | [montaro2017/bili_novel_packer](https://github.com/montaro2017/bili_novel_packer) | 736 | Dart | 轻小说打包器，采集哔哩轻小说网站(bilinovel.com linovelib.com)内容，打包成EPUB格式，支持封面、插图、目录，支持分卷合并。 |
 | [RuliaReader/Rulia](https://github.com/RuliaReader/Rulia) | 368 | C# | 回到阅读本身 —— Rulia 是现代化的 Windows 漫画阅读器。 |
-| [sdyzjx/open-yachiyo](https://github.com/sdyzjx/open-yachiyo) | 336 | JavaScript | — |
+| [sdyzjx/open-yachiyo](https://github.com/sdyzjx/open-yachiyo) | 337 | JavaScript | — |
 | [JimHans/bgm.res](https://github.com/JimHans/bgm.res) | 69 | JavaScript | A Bangumi Based Light, Functional and Modern Local Anime Manager \| 基于bangumi数据库的本地番剧管理、播放与进度同步客户端 |
 
 <a id="bili"></a>
@@ -224,11 +224,11 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | 190,088 | Batchfile | 开源 Windows / Office 激活脚本，支持 HWID、Ohook、TSforge 与在线 KMS 等方式，并附高级排错指南。 |
+| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | 190,089 | Batchfile | 开源 Windows / Office 激活脚本，支持 HWID、Ohook、TSforge 与在线 KMS 等方式，并附高级排错指南。 |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 123,119 | Rust | 可自托管的开源远程桌面应用，TeamViewer 的替代方案。 |
 | [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | 15,538 | C# | 🔍 Windows 快速文件搜索与应用启动器，支持社区插件。 |
 | [M2Team/NanaZip](https://github.com/M2Team/NanaZip) | 15,492 | C++ | 面向现代 Windows 体验的 7-Zip 衍生版。 |
-| [seerge/g-helper](https://github.com/seerge/g-helper) | 15,116 | C# | 华硕笔记本的轻量级 Armoury Crate 替代品，功能几乎一致；支持 ROG 幻系列 / Flow / TUF / Strix / Scar / ProArt、Vivobook、Zenbook、Expertbook、ROG Ally 等机型。 |
+| [seerge/g-helper](https://github.com/seerge/g-helper) | 15,117 | C# | 华硕笔记本的轻量级 Armoury Crate 替代品，功能几乎一致；支持 ROG 幻系列 / Flow / TUF / Strix / Scar / ProArt、Vivobook、Zenbook、Expertbook、ROG Ally 等机型。 |
 | [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | 9,463 | C++ | 专注高效的桌面启动器 —— 原生、快速、可扩展。 |
 | [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) | 7,388 | Rust | 🎉跨平台的剪贴板管理工具 \| Cross-platform clipboard management tool |
 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3,541 | C# | 快速、免费、可定制的图片查看器。 |
