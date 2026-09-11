@@ -87,7 +87,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -203,7 +203,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -337,7 +337,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -453,7 +453,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -576,7 +576,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -692,7 +692,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -818,7 +818,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -829,7 +829,7 @@
     "releases_url": "https://api.github.com/repos/anywhere-labs/dsh-desktop/releases{/id}",
     "size": 231056,
     "ssh_url": "git@github.com:anywhere-labs/dsh-desktop.git",
-    "stargazers_count": 25344,
+    "stargazers_count": 25348,
     "stargazers_url": "https://api.github.com/repos/anywhere-labs/dsh-desktop/stargazers",
     "statuses_url": "https://api.github.com/repos/anywhere-labs/dsh-desktop/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/anywhere-labs/dsh-desktop/subscribers",
@@ -848,11 +848,11 @@
       "dsh-plugin-desktop"
     ],
     "trees_url": "https://api.github.com/repos/anywhere-labs/dsh-desktop/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:44:37Z",
+    "updated_at": "2026-09-11T02:50:37Z",
     "url": "https://api.github.com/repos/anywhere-labs/dsh-desktop",
     "visibility": "public",
-    "watchers": 25344,
-    "watchers_count": 25344,
+    "watchers": 25348,
+    "watchers_count": 25348,
     "web_commit_signoff_required": false
   },
   {
@@ -917,8 +917,8 @@
     "name": "DeepSeek-Reasonix",
     "node_id": "R_kgDOSIatDw",
     "notifications_url": "https://api.github.com/repos/esengine/DeepSeek-Reasonix/notifications{?since,all,participating}",
-    "open_issues": 1820,
-    "open_issues_count": 1820,
+    "open_issues": 1821,
+    "open_issues_count": 1821,
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/18465053?v=4",
       "events_url": "https://api.github.com/users/esengine/events{/privacy}",
@@ -943,7 +943,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -1078,7 +1078,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -1194,7 +1194,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -1318,7 +1318,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -1437,7 +1437,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -1553,7 +1553,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -1676,7 +1676,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -1687,7 +1687,7 @@
     "releases_url": "https://api.github.com/repos/emilkowalski/skills/releases{/id}",
     "size": 120,
     "ssh_url": "git@github.com:emilkowalski/skills.git",
-    "stargazers_count": 36701,
+    "stargazers_count": 36702,
     "stargazers_url": "https://api.github.com/repos/emilkowalski/skills/stargazers",
     "statuses_url": "https://api.github.com/repos/emilkowalski/skills/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/emilkowalski/skills/subscribers",
@@ -1697,11 +1697,11 @@
     "teams_url": "https://api.github.com/repos/emilkowalski/skills/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/emilkowalski/skills/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:46:47Z",
+    "updated_at": "2026-09-11T02:49:04Z",
     "url": "https://api.github.com/repos/emilkowalski/skills",
     "visibility": "public",
-    "watchers": 36701,
-    "watchers_count": 36701,
+    "watchers": 36702,
+    "watchers_count": 36702,
     "web_commit_signoff_required": false
   },
   {
@@ -1786,7 +1786,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -1902,7 +1902,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -2018,7 +2018,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -2029,7 +2029,7 @@
     "releases_url": "https://api.github.com/repos/AlkaidLab/foundation-sunshine/releases{/id}",
     "size": 60629,
     "ssh_url": "git@github.com:AlkaidLab/foundation-sunshine.git",
-    "stargazers_count": 6796,
+    "stargazers_count": 6795,
     "stargazers_url": "https://api.github.com/repos/AlkaidLab/foundation-sunshine/stargazers",
     "statuses_url": "https://api.github.com/repos/AlkaidLab/foundation-sunshine/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/AlkaidLab/foundation-sunshine/subscribers",
@@ -2057,11 +2057,11 @@
       "virtual-display"
     ],
     "trees_url": "https://api.github.com/repos/AlkaidLab/foundation-sunshine/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:43:38Z",
+    "updated_at": "2026-09-11T02:48:49Z",
     "url": "https://api.github.com/repos/AlkaidLab/foundation-sunshine",
     "visibility": "public",
-    "watchers": 6796,
-    "watchers_count": 6796,
+    "watchers": 6795,
+    "watchers_count": 6795,
     "web_commit_signoff_required": false
   },
   {
@@ -2152,7 +2152,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -2286,7 +2286,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -2411,7 +2411,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -2534,7 +2534,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -2624,8 +2624,8 @@
     "name": "opencode",
     "node_id": "R_kgDOOiiGLw",
     "notifications_url": "https://api.github.com/repos/anomalyco/opencode/notifications{?since,all,participating}",
-    "open_issues": 5724,
-    "open_issues_count": 5724,
+    "open_issues": 5725,
+    "open_issues_count": 5725,
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/66570915?v=4",
       "events_url": "https://api.github.com/users/anomalyco/events{/privacy}",
@@ -2650,7 +2650,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -2661,7 +2661,7 @@
     "releases_url": "https://api.github.com/repos/anomalyco/opencode/releases{/id}",
     "size": 508537,
     "ssh_url": "git@github.com:anomalyco/opencode.git",
-    "stargazers_count": 206507,
+    "stargazers_count": 206508,
     "stargazers_url": "https://api.github.com/repos/anomalyco/opencode/stargazers",
     "statuses_url": "https://api.github.com/repos/anomalyco/opencode/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/anomalyco/opencode/subscribers",
@@ -2671,11 +2671,11 @@
     "teams_url": "https://api.github.com/repos/anomalyco/opencode/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/anomalyco/opencode/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:44:32Z",
+    "updated_at": "2026-09-11T02:51:31Z",
     "url": "https://api.github.com/repos/anomalyco/opencode",
     "visibility": "public",
-    "watchers": 206507,
-    "watchers_count": 206507,
+    "watchers": 206508,
+    "watchers_count": 206508,
     "web_commit_signoff_required": false
   },
   {
@@ -2766,7 +2766,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -2882,7 +2882,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -2936,8 +2936,8 @@
     "downloads_url": "https://api.github.com/repos/obra/superpowers/downloads",
     "events_url": "https://api.github.com/repos/obra/superpowers/events",
     "fork": false,
-    "forks": 25473,
-    "forks_count": 25473,
+    "forks": 25474,
+    "forks_count": 25474,
     "forks_url": "https://api.github.com/repos/obra/superpowers/forks",
     "full_name": "obra/superpowers",
     "git_commits_url": "https://api.github.com/repos/obra/superpowers/git/commits{/sha}",
@@ -3002,7 +3002,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -3013,7 +3013,7 @@
     "releases_url": "https://api.github.com/repos/obra/superpowers/releases{/id}",
     "size": 4763,
     "ssh_url": "git@github.com:obra/superpowers.git",
-    "stargazers_count": 284747,
+    "stargazers_count": 284749,
     "stargazers_url": "https://api.github.com/repos/obra/superpowers/stargazers",
     "statuses_url": "https://api.github.com/repos/obra/superpowers/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/obra/superpowers/subscribers",
@@ -3032,11 +3032,11 @@
       "superpowers"
     ],
     "trees_url": "https://api.github.com/repos/obra/superpowers/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:48:34Z",
+    "updated_at": "2026-09-11T02:49:44Z",
     "url": "https://api.github.com/repos/obra/superpowers",
     "visibility": "public",
-    "watchers": 284747,
-    "watchers_count": 284747,
+    "watchers": 284749,
+    "watchers_count": 284749,
     "web_commit_signoff_required": false
   },
   {
@@ -3127,7 +3127,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -3258,7 +3258,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -3374,7 +3374,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -3492,7 +3492,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -3503,7 +3503,7 @@
     "releases_url": "https://api.github.com/repos/colbymchenry/codegraph/releases{/id}",
     "size": 21831,
     "ssh_url": "git@github.com:colbymchenry/codegraph.git",
-    "stargazers_count": 70423,
+    "stargazers_count": 70425,
     "stargazers_url": "https://api.github.com/repos/colbymchenry/codegraph/stargazers",
     "statuses_url": "https://api.github.com/repos/colbymchenry/codegraph/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/colbymchenry/codegraph/subscribers",
@@ -3513,11 +3513,11 @@
     "teams_url": "https://api.github.com/repos/colbymchenry/codegraph/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/colbymchenry/codegraph/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:29:56Z",
+    "updated_at": "2026-09-11T02:50:25Z",
     "url": "https://api.github.com/repos/colbymchenry/codegraph",
     "visibility": "public",
-    "watchers": 70423,
-    "watchers_count": 70423,
+    "watchers": 70425,
+    "watchers_count": 70425,
     "web_commit_signoff_required": false
   },
   {
@@ -3608,7 +3608,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -3724,7 +3724,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -3735,7 +3735,7 @@
     "releases_url": "https://api.github.com/repos/Leonxlnx/taste-skill/releases{/id}",
     "size": 33814,
     "ssh_url": "git@github.com:Leonxlnx/taste-skill.git",
-    "stargazers_count": 86070,
+    "stargazers_count": 86072,
     "stargazers_url": "https://api.github.com/repos/Leonxlnx/taste-skill/stargazers",
     "statuses_url": "https://api.github.com/repos/Leonxlnx/taste-skill/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/Leonxlnx/taste-skill/subscribers",
@@ -3759,11 +3759,11 @@
       "vibecoding"
     ],
     "trees_url": "https://api.github.com/repos/Leonxlnx/taste-skill/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:44:01Z",
+    "updated_at": "2026-09-11T02:51:15Z",
     "url": "https://api.github.com/repos/Leonxlnx/taste-skill",
     "visibility": "public",
-    "watchers": 86070,
-    "watchers_count": 86070,
+    "watchers": 86072,
+    "watchers_count": 86072,
     "web_commit_signoff_required": false
   },
   {
@@ -3854,7 +3854,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -3977,7 +3977,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -4100,7 +4100,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -4216,7 +4216,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -4347,7 +4347,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -4474,7 +4474,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -4590,7 +4590,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -4601,7 +4601,7 @@
     "releases_url": "https://api.github.com/repos/mattpocock/skills/releases{/id}",
     "size": 1679,
     "ssh_url": "git@github.com:mattpocock/skills.git",
-    "stargazers_count": 258938,
+    "stargazers_count": 258940,
     "stargazers_url": "https://api.github.com/repos/mattpocock/skills/stargazers",
     "statuses_url": "https://api.github.com/repos/mattpocock/skills/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/mattpocock/skills/subscribers",
@@ -4611,11 +4611,11 @@
     "teams_url": "https://api.github.com/repos/mattpocock/skills/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/mattpocock/skills/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:46:53Z",
+    "updated_at": "2026-09-11T02:51:43Z",
     "url": "https://api.github.com/repos/mattpocock/skills",
     "visibility": "public",
-    "watchers": 258938,
-    "watchers_count": 258938,
+    "watchers": 258940,
+    "watchers_count": 258940,
     "web_commit_signoff_required": false
   },
   {
@@ -4700,7 +4700,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -4833,7 +4833,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -4954,7 +4954,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -5075,7 +5075,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -5209,7 +5209,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -5337,7 +5337,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -5473,7 +5473,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -5484,7 +5484,7 @@
     "releases_url": "https://api.github.com/repos/linshenkx/prompt-optimizer/releases{/id}",
     "size": 45647,
     "ssh_url": "git@github.com:linshenkx/prompt-optimizer.git",
-    "stargazers_count": 34460,
+    "stargazers_count": 34461,
     "stargazers_url": "https://api.github.com/repos/linshenkx/prompt-optimizer/stargazers",
     "statuses_url": "https://api.github.com/repos/linshenkx/prompt-optimizer/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/linshenkx/prompt-optimizer/subscribers",
@@ -5505,11 +5505,11 @@
       "prompt-tuning"
     ],
     "trees_url": "https://api.github.com/repos/linshenkx/prompt-optimizer/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:07:42Z",
+    "updated_at": "2026-09-11T02:50:26Z",
     "url": "https://api.github.com/repos/linshenkx/prompt-optimizer",
     "visibility": "public",
-    "watchers": 34460,
-    "watchers_count": 34460,
+    "watchers": 34461,
+    "watchers_count": 34461,
     "web_commit_signoff_required": false
   },
   {
@@ -5534,8 +5534,8 @@
     "downloads_url": "https://api.github.com/repos/nexu-io/open-design/downloads",
     "events_url": "https://api.github.com/repos/nexu-io/open-design/events",
     "fork": false,
-    "forks": 11057,
-    "forks_count": 11057,
+    "forks": 11059,
+    "forks_count": 11059,
     "forks_url": "https://api.github.com/repos/nexu-io/open-design/forks",
     "full_name": "nexu-io/open-design",
     "git_commits_url": "https://api.github.com/repos/nexu-io/open-design/git/commits{/sha}",
@@ -5574,8 +5574,8 @@
     "name": "open-design",
     "node_id": "R_kgDOSOgY8g",
     "notifications_url": "https://api.github.com/repos/nexu-io/open-design/notifications{?since,all,participating}",
-    "open_issues": 979,
-    "open_issues_count": 979,
+    "open_issues": 980,
+    "open_issues_count": 980,
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4",
       "events_url": "https://api.github.com/users/nexu-io/events{/privacy}",
@@ -5600,7 +5600,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -5611,7 +5611,7 @@
     "releases_url": "https://api.github.com/repos/nexu-io/open-design/releases{/id}",
     "size": 2181951,
     "ssh_url": "git@github.com:nexu-io/open-design.git",
-    "stargazers_count": 95450,
+    "stargazers_count": 95453,
     "stargazers_url": "https://api.github.com/repos/nexu-io/open-design/stargazers",
     "statuses_url": "https://api.github.com/repos/nexu-io/open-design/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/nexu-io/open-design/subscribers",
@@ -5642,11 +5642,11 @@
       "vibe-coding"
     ],
     "trees_url": "https://api.github.com/repos/nexu-io/open-design/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:46:09Z",
+    "updated_at": "2026-09-11T02:50:46Z",
     "url": "https://api.github.com/repos/nexu-io/open-design",
     "visibility": "public",
-    "watchers": 95450,
-    "watchers_count": 95450,
+    "watchers": 95453,
+    "watchers_count": 95453,
     "web_commit_signoff_required": false
   },
   {
@@ -5737,7 +5737,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -5857,7 +5857,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -5947,8 +5947,8 @@
     "name": "oh-my-openagent",
     "node_id": "R_kgDOQheEEQ",
     "notifications_url": "https://api.github.com/repos/code-yeongyu/oh-my-openagent/notifications{?since,all,participating}",
-    "open_issues": 964,
-    "open_issues_count": 964,
+    "open_issues": 962,
+    "open_issues_count": 962,
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/11153873?v=4",
       "events_url": "https://api.github.com/users/code-yeongyu/events{/privacy}",
@@ -5973,14 +5973,14 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
     "private": false,
     "pull_request_creation_policy": "all",
     "pulls_url": "https://api.github.com/repos/code-yeongyu/oh-my-openagent/pulls{/number}",
-    "pushed_at": "2026-09-11T02:39:17Z",
+    "pushed_at": "2026-09-11T02:51:52Z",
     "releases_url": "https://api.github.com/repos/code-yeongyu/oh-my-openagent/releases{/id}",
     "size": 183654,
     "ssh_url": "git@github.com:code-yeongyu/oh-my-openagent.git",
@@ -6099,7 +6099,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -6209,7 +6209,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -6325,7 +6325,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -6453,7 +6453,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -6569,7 +6569,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -6682,7 +6682,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -6809,7 +6809,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -6925,7 +6925,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -7035,7 +7035,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -7046,7 +7046,7 @@
     "releases_url": "https://api.github.com/repos/Lin-arm/GKD_subscription/releases{/id}",
     "size": 46252,
     "ssh_url": "git@github.com:Lin-arm/GKD_subscription.git",
-    "stargazers_count": 5093,
+    "stargazers_count": 5092,
     "stargazers_url": "https://api.github.com/repos/Lin-arm/GKD_subscription/stargazers",
     "statuses_url": "https://api.github.com/repos/Lin-arm/GKD_subscription/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/Lin-arm/GKD_subscription/subscribers",
@@ -7061,11 +7061,11 @@
       "subscription"
     ],
     "trees_url": "https://api.github.com/repos/Lin-arm/GKD_subscription/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:21:45Z",
+    "updated_at": "2026-09-11T02:51:19Z",
     "url": "https://api.github.com/repos/Lin-arm/GKD_subscription",
     "visibility": "public",
-    "watchers": 5093,
-    "watchers_count": 5093,
+    "watchers": 5092,
+    "watchers_count": 5092,
     "web_commit_signoff_required": true
   },
   {
@@ -7156,7 +7156,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -7276,7 +7276,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -7406,7 +7406,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -7516,7 +7516,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -7636,7 +7636,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -7771,7 +7771,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -7903,7 +7903,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -8025,7 +8025,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -8145,7 +8145,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -8255,7 +8255,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -8373,7 +8373,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -8489,7 +8489,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -8611,7 +8611,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -8738,7 +8738,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -8858,7 +8858,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -8978,7 +8978,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -9094,7 +9094,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -9210,7 +9210,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -9323,7 +9323,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -9439,7 +9439,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -9555,7 +9555,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -9675,7 +9675,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -9808,7 +9808,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -9931,7 +9931,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -10061,7 +10061,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -10177,7 +10177,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -10304,7 +10304,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -10425,7 +10425,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -10552,7 +10552,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -10668,7 +10668,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -10791,7 +10791,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -10918,7 +10918,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -11041,7 +11041,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -11167,7 +11167,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -11286,7 +11286,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -11396,7 +11396,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -11512,7 +11512,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -11635,7 +11635,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -11769,7 +11769,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -11885,7 +11885,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -12013,7 +12013,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -12129,7 +12129,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -12251,7 +12251,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -12367,7 +12367,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -12496,7 +12496,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -12612,7 +12612,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -12728,7 +12728,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -12848,7 +12848,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -12985,7 +12985,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -13107,7 +13107,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -13225,7 +13225,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -13341,7 +13341,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -13458,7 +13458,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -13568,7 +13568,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -13689,7 +13689,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -13700,7 +13700,7 @@
     "releases_url": "https://api.github.com/repos/mihonapp/mihon/releases{/id}",
     "size": 78104,
     "ssh_url": "git@github.com:mihonapp/mihon.git",
-    "stargazers_count": 23508,
+    "stargazers_count": 23507,
     "stargazers_url": "https://api.github.com/repos/mihonapp/mihon/stargazers",
     "statuses_url": "https://api.github.com/repos/mihonapp/mihon/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/mihonapp/mihon/subscribers",
@@ -13720,11 +13720,11 @@
       "tachiyomi-alternative"
     ],
     "trees_url": "https://api.github.com/repos/mihonapp/mihon/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:34:28Z",
+    "updated_at": "2026-09-11T02:51:25Z",
     "url": "https://api.github.com/repos/mihonapp/mihon",
     "visibility": "public",
-    "watchers": 23508,
-    "watchers_count": 23508,
+    "watchers": 23507,
+    "watchers_count": 23507,
     "web_commit_signoff_required": false
   },
   {
@@ -13815,7 +13815,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -13940,7 +13940,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -14068,7 +14068,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -14189,7 +14189,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -14317,7 +14317,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -14433,7 +14433,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -14556,7 +14556,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -14684,7 +14684,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -14695,7 +14695,7 @@
     "releases_url": "https://api.github.com/repos/521xueweihan/HelloGitHub/releases{/id}",
     "size": 9332,
     "ssh_url": "git@github.com:521xueweihan/HelloGitHub.git",
-    "stargazers_count": 175905,
+    "stargazers_count": 175906,
     "stargazers_url": "https://api.github.com/repos/521xueweihan/HelloGitHub/stargazers",
     "statuses_url": "https://api.github.com/repos/521xueweihan/HelloGitHub/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/521xueweihan/HelloGitHub/subscribers",
@@ -14710,11 +14710,11 @@
       "python"
     ],
     "trees_url": "https://api.github.com/repos/521xueweihan/HelloGitHub/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:38:59Z",
+    "updated_at": "2026-09-11T02:48:44Z",
     "url": "https://api.github.com/repos/521xueweihan/HelloGitHub",
     "visibility": "public",
-    "watchers": 175905,
-    "watchers_count": 175905,
+    "watchers": 175906,
+    "watchers_count": 175906,
     "web_commit_signoff_required": false
   },
   {
@@ -14799,7 +14799,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -14912,7 +14912,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -15045,7 +15045,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -15166,7 +15166,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -15288,7 +15288,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -15405,7 +15405,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -15521,7 +15521,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -15637,7 +15637,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -15767,7 +15767,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -15899,7 +15899,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -16023,7 +16023,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -16139,7 +16139,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -16258,7 +16258,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -16380,7 +16380,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -16510,7 +16510,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -16629,7 +16629,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -16762,7 +16762,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -16878,7 +16878,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -17014,7 +17014,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -17137,7 +17137,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -17268,7 +17268,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -17388,7 +17388,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -17504,7 +17504,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -17625,7 +17625,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -17760,7 +17760,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -17810,8 +17810,8 @@
     "downloads_url": "https://api.github.com/repos/MarSeventh/CloudFlare-ImgBed/downloads",
     "events_url": "https://api.github.com/repos/MarSeventh/CloudFlare-ImgBed/events",
     "fork": false,
-    "forks": 8138,
-    "forks_count": 8138,
+    "forks": 8139,
+    "forks_count": 8139,
     "forks_url": "https://api.github.com/repos/MarSeventh/CloudFlare-ImgBed/forks",
     "full_name": "MarSeventh/CloudFlare-ImgBed",
     "git_commits_url": "https://api.github.com/repos/MarSeventh/CloudFlare-ImgBed/git/commits{/sha}",
@@ -17876,7 +17876,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -18007,7 +18007,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -18134,7 +18134,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -18268,7 +18268,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -18384,7 +18384,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -18500,7 +18500,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -18626,7 +18626,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -18760,7 +18760,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -18880,7 +18880,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -19002,7 +19002,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -19123,7 +19123,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -19134,7 +19134,7 @@
     "releases_url": "https://api.github.com/repos/open-ani/animeko/releases{/id}",
     "size": 412030,
     "ssh_url": "git@github.com:open-ani/animeko.git",
-    "stargazers_count": 20047,
+    "stargazers_count": 20046,
     "stargazers_url": "https://api.github.com/repos/open-ani/animeko/stargazers",
     "statuses_url": "https://api.github.com/repos/open-ani/animeko/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/open-ani/animeko/subscribers",
@@ -19164,11 +19164,11 @@
       "windows"
     ],
     "trees_url": "https://api.github.com/repos/open-ani/animeko/git/trees{/sha}",
-    "updated_at": "2026-09-11T00:57:51Z",
+    "updated_at": "2026-09-11T02:49:17Z",
     "url": "https://api.github.com/repos/open-ani/animeko",
     "visibility": "public",
-    "watchers": 20047,
-    "watchers_count": 20047,
+    "watchers": 20046,
+    "watchers_count": 20046,
     "web_commit_signoff_required": false
   },
   {
@@ -19259,7 +19259,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -19270,7 +19270,7 @@
     "releases_url": "https://api.github.com/repos/clash-verge-rev/clash-verge-rev/releases{/id}",
     "size": 85776,
     "ssh_url": "git@github.com:clash-verge-rev/clash-verge-rev.git",
-    "stargazers_count": 143660,
+    "stargazers_count": 143661,
     "stargazers_url": "https://api.github.com/repos/clash-verge-rev/clash-verge-rev/stargazers",
     "statuses_url": "https://api.github.com/repos/clash-verge-rev/clash-verge-rev/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/clash-verge-rev/clash-verge-rev/subscribers",
@@ -19289,11 +19289,11 @@
       "windows"
     ],
     "trees_url": "https://api.github.com/repos/clash-verge-rev/clash-verge-rev/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:40:10Z",
+    "updated_at": "2026-09-11T02:49:03Z",
     "url": "https://api.github.com/repos/clash-verge-rev/clash-verge-rev",
     "visibility": "public",
-    "watchers": 143660,
-    "watchers_count": 143660,
+    "watchers": 143661,
+    "watchers_count": 143661,
     "web_commit_signoff_required": false
   },
   {
@@ -19384,7 +19384,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -19505,7 +19505,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -19622,7 +19622,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -19743,7 +19743,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -19870,7 +19870,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -19991,7 +19991,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -20117,7 +20117,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -20254,7 +20254,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -20385,7 +20385,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -20510,7 +20510,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -20638,7 +20638,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -20753,7 +20753,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -20867,7 +20867,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },
@@ -20983,7 +20983,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": false,
+      "pull": true,
       "push": false,
       "triage": false
     },

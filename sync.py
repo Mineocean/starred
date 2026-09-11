@@ -22,6 +22,8 @@ import sys
 ROOT = pathlib.Path(__file__).resolve().parent
 OWNER = os.environ.get("STAR_OWNER", "Mineocean")
 SOURCE = os.environ.get("STAR_SOURCE", "me")
+ZH_PATH = ROOT / "i18n" / "zh.json"
+CJK = re.compile(r"[\u4e00-\u9fff]")
 
 # ---------------------------------------------------------------- 分类定义
 # (key, 标题, 图标, 显式归属的仓库列表)  —— 顺序即 README 中的展示顺序
@@ -65,7 +67,7 @@ CATEGORIES = [
         "powerfullz/override-rules", "INKCR0W/sparkle", "xishang0128/sparkle",
         "getsurfboard/surfboard", "TG-Twilight/AWAvenue-Ads-Rule", "217heidai/adblockfilters",
         "mihomo-party-org/clash-party", "libnyanpasu/clash-nyanpasu", "Loyalsoldier/clash-rules",
-        "clash-verge-rev/clash-verge-rev", "MetaCubeX/mihomo", "GUI-for-Cores/GUI.for.Clash",
+        "clash-verge-rev/clash-verge-rev", "GUI-for-Cores/GUI.for.Clash",
         "Loyalsoldier/v2ray-rules-dat", "SukkaW/Surge",
     ]),
     ("media", "音乐 / 影音播放", "🎵", [
@@ -106,7 +108,7 @@ CATEGORIES = [
     ("game", "游戏", "🎮", [
         "Meloong-Git/PCL", "PCL-Community/PCL-CE", "BakaXL-Launcher/BakaXL", "teaSummer/MCiSEE",
         "AnYiEE/touhou-mystia-izakaya-assistant", "JK-Block-Arena/The-Datapack",
-        "palmcivet/awesome-arknights-endfield", "YumeYucca/YumeBox",
+        "palmcivet/awesome-arknights-endfield", "YumeYucca/YumeBox", "MetaCubeX/mihomo",
     ]),
     ("campus", "校园 / 课程自动化", "🎓", [
         "openschoolcn/zfn_api", "VermiIIi0n/fuckZHS", "Duster-Cule/UnipusHelperPro",
@@ -187,12 +189,37 @@ def classify(repo: dict, explicit: dict) -> str:
     return "__new__"
 
 
+def load_zh() -> dict:
+    """英文简介的中文翻译表(可选)。"""
+    if not ZH_PATH.exists():
+        return {}
+    data = json.loads(ZH_PATH.read_text(encoding="utf-8"))
+    return {k: v for k, v in data.items() if not k.startswith("_") and v}
+
+
+def describe(repo: dict, zh: dict) -> str:
+    """优先用中文译文, 否则用仓库原文。"""
+    translated = zh.get(repo["full_name"])
+    if translated:
+        return esc(translated)
+    return esc(repo.get("description")) or "—"
+
+
+def untranslated(repos: list, zh: dict) -> list:
+    """列出了带英文简介、但还没有中文译文的仓库。"""
+    return [
+        r["full_name"]
+        for r in sorted(repos, key=lambda x: -x["stargazers_count"])
+        if r.get("description") and not CJK.search(r["description"]) and r["full_name"] not in zh
+    ]
+
+
 # ---------------------------------------------------------------- 渲染
 def esc(text: str) -> str:
     return (text or "").replace("|", "\\|").replace("\n", " ").strip()
 
 
-def build_readme(repos: list, grouped: dict) -> str:
+def build_readme(repos: list, grouped: dict, zh: dict) -> str:
     now = datetime.datetime.now().astimezone().strftime("%Y-%m-%d %H:%M %z")
     total = len(repos)
     stars = sum(r["stargazers_count"] for r in repos)
@@ -201,6 +228,7 @@ def build_readme(repos: list, grouped: dict) -> str:
         if r.get("language"):
             langs[r["language"]] = langs.get(r["language"], 0) + 1
     top_langs = ", ".join(f"{k} {v}" for k, v in sorted(langs.items(), key=lambda x: -x[1])[:6])
+    zh_hits = sum(1 for r in repos if r["full_name"] in zh)
 
     order = [k for k, _, _, _ in CATEGORIES] + ["__new__"]
     out = [
@@ -208,6 +236,7 @@ def build_readme(repos: list, grouped: dict) -> str:
         "",
         f"> 共 **{total}** 个仓库 · 合计 **{stars:,}** 星 · 主要语言：{top_langs}",
         f"> 最近同步：{now} · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**",
+        f"> 其中 **{zh_hits}** 个仓库的英文简介已译为中文（见 [`i18n/zh.json`](i18n/zh.json)）",
         "",
         f"在线查看：[github.com/{OWNER}?tab=stars](https://github.com/{OWNER}?tab=stars)",
         "",
@@ -234,7 +263,7 @@ def build_readme(repos: list, grouped: dict) -> str:
         out.append("| --- | ---: | --- | --- |")
         for r in items:
             name = r["full_name"]
-            desc = esc(r.get("description")) or "—"
+            desc = describe(r, zh)
             flags = " 🗄️" if r.get("archived") else ""
             out.append(
                 f'| [{name}]({r["html_url"]}){flags} | {r["stargazers_count"]:,} '
@@ -254,6 +283,8 @@ def build_readme(repos: list, grouped: dict) -> str:
         "",
         "- 分类的显式归属写在 `sync.py` 的 `CATEGORIES` 里；新星标会被关键词规则自动归位，",
         "  兜底不中则落到「未分类」，下次同步时把它挪到合适的分类即可。",
+        "- 英文简介的中文翻译放在 `i18n/zh.json`（键为 `owner/repo`），有译文的优先显示译文；",
+        "  `python sync.py --check` 会列出还没翻译的仓库。",
         "- `.github/workflows/sync.yml` 每天自动跑一次并提交变更（公开星标）。",
         "",
     ]
@@ -262,6 +293,19 @@ def build_readme(repos: list, grouped: dict) -> str:
 
 def main() -> None:
     repos = fetch()
+    zh = load_zh()
+
+    if "--check" in sys.argv:
+        missing = untranslated(repos, zh)
+        print(f"已翻译 {sum(1 for r in repos if r['full_name'] in zh)} 个 / 星标共 {len(repos)} 个")
+        if missing:
+            print(f"\n以下 {len(missing)} 个仓库还是英文简介，可补进 i18n/zh.json：")
+            for name in missing:
+                print("  " + name)
+        else:
+            print("英文简介已全部翻译 ✅")
+        return
+
     explicit = {name: key for key, _, _, names in CATEGORIES for name in names}
     grouped = {}
     for repo in repos:
@@ -273,9 +317,9 @@ def main() -> None:
     (ROOT / "data" / "starred.json").write_text(
         json.dumps(repos, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
-    (ROOT / "README.md").write_text(build_readme(repos, grouped), encoding="utf-8")
+    (ROOT / "README.md").write_text(build_readme(repos, grouped, zh), encoding="utf-8")
 
-    print(f"共 {len(repos)} 个星标仓库")
+    print(f"共 {len(repos)} 个星标仓库, 其中 {sum(1 for r in repos if r['full_name'] in zh)} 个简介已中文化")
     for key, items in sorted(grouped.items(), key=lambda x: -len(x[1])):
         title = CAT_TITLES.get(key, UNCLASSIFIED)[0]
         print(f"  {len(items):>3}  {title}")
