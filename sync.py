@@ -219,8 +219,7 @@ def esc(text: str) -> str:
     return (text or "").replace("|", "\\|").replace("\n", " ").strip()
 
 
-def build_readme(repos: list, grouped: dict, zh: dict) -> str:
-    now = datetime.datetime.now().astimezone().strftime("%Y-%m-%d %H:%M %z")
+def build_readme(repos: list, grouped: dict, zh: dict, now: str) -> str:
     total = len(repos)
     stars = sum(r["stargazers_count"] for r in repos)
     langs = {}
@@ -317,7 +316,16 @@ def main() -> None:
     (ROOT / "data" / "starred.json").write_text(
         json.dumps(repos, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
-    (ROOT / "README.md").write_text(build_readme(repos, grouped, zh), encoding="utf-8")
+    now = datetime.datetime.now().astimezone().strftime("%Y-%m-%d %H:%M %z")
+    readme = ROOT / "README.md"
+    text = build_readme(repos, grouped, zh, now)
+    if readme.exists():
+        # 内容没变时保留原时间戳, 避免每天产生只有时间戳变化的噪音提交
+        prev = readme.read_text(encoding="utf-8")
+        stamp = re.compile(r"最近同步：[^·]+·")
+        if stamp.search(prev) and stamp.sub("最近同步：T·", prev) == stamp.sub("最近同步：T·", text):
+            text = prev
+    readme.write_text(text, encoding="utf-8")
 
     print(f"共 {len(repos)} 个星标仓库, 其中 {sum(1 for r in repos if r['full_name'] in zh)} 个简介已中文化")
     for key, items in sorted(grouped.items(), key=lambda x: -len(x[1])):

@@ -3013,7 +3013,7 @@
     "releases_url": "https://api.github.com/repos/obra/superpowers/releases{/id}",
     "size": 4763,
     "ssh_url": "git@github.com:obra/superpowers.git",
-    "stargazers_count": 284752,
+    "stargazers_count": 284753,
     "stargazers_url": "https://api.github.com/repos/obra/superpowers/stargazers",
     "statuses_url": "https://api.github.com/repos/obra/superpowers/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/obra/superpowers/subscribers",
@@ -3032,11 +3032,11 @@
       "superpowers"
     ],
     "trees_url": "https://api.github.com/repos/obra/superpowers/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:55:10Z",
+    "updated_at": "2026-09-11T02:56:54Z",
     "url": "https://api.github.com/repos/obra/superpowers",
     "visibility": "public",
-    "watchers": 284752,
-    "watchers_count": 284752,
+    "watchers": 284753,
+    "watchers_count": 284753,
     "web_commit_signoff_required": false
   },
   {
@@ -4601,7 +4601,7 @@
     "releases_url": "https://api.github.com/repos/mattpocock/skills/releases{/id}",
     "size": 1679,
     "ssh_url": "git@github.com:mattpocock/skills.git",
-    "stargazers_count": 258941,
+    "stargazers_count": 258943,
     "stargazers_url": "https://api.github.com/repos/mattpocock/skills/stargazers",
     "statuses_url": "https://api.github.com/repos/mattpocock/skills/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/mattpocock/skills/subscribers",
@@ -4611,11 +4611,11 @@
     "teams_url": "https://api.github.com/repos/mattpocock/skills/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/mattpocock/skills/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:55:00Z",
+    "updated_at": "2026-09-11T02:56:51Z",
     "url": "https://api.github.com/repos/mattpocock/skills",
     "visibility": "public",
-    "watchers": 258941,
-    "watchers_count": 258941,
+    "watchers": 258943,
+    "watchers_count": 258943,
     "web_commit_signoff_required": false
   },
   {

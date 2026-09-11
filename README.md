@@ -1,7 +1,7 @@
 # ⭐ 我的 GitHub 星标清单
 
-> 共 **172** 个仓库 · 合计 **3,771,504** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
-> 最近同步：2026-09-11 10:56 +0800 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
+> 共 **172** 个仓库 · 合计 **3,771,507** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
+> 最近同步：2026-09-11 10:57 +0800 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
 > 其中 **65** 个仓库的英文简介已译为中文（见 [`i18n/zh.json`](i18n/zh.json)）
 
 在线查看：[github.com/Mineocean?tab=stars](https://github.com/Mineocean?tab=stars)
@@ -74,8 +74,8 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [obra/superpowers](https://github.com/obra/superpowers) | 284,752 | Shell | 一套真正可用的 Agent 技能框架与软件开发方法论。 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 258,941 | Shell | 给真正工程师的 Skills 合集，直接来自作者的 .agents 目录。 |
+| [obra/superpowers](https://github.com/obra/superpowers) | 284,753 | Shell | 一套真正可用的 Agent 技能框架与软件开发方法论。 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 258,943 | Shell | 给真正工程师的 Skills 合集，直接来自作者的 .agents 目录。 |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 86,073 | JavaScript | Taste-Skill —— 让你的 AI 有品味，别再产出无聊、千篇一律的垃圾内容。 |
 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 36,703 | Markdown | 给设计师和工程师用的 Skills。 |
 | [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 34,462 | TypeScript | AI 提示词优化器：写出更好的提示词，拿到更好的结果。 |
