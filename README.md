@@ -1,7 +1,7 @@
 # ⭐ 我的 GitHub 星标清单
 
-> 共 **172** 个仓库 · 合计 **3,771,493** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
-> 最近同步：2026-09-11 02:54 +0000 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
+> 共 **172** 个仓库 · 合计 **3,771,504** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
+> 最近同步：2026-09-11 10:56 +0800 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
 > 其中 **65** 个仓库的英文简介已译为中文（见 [`i18n/zh.json`](i18n/zh.json)）
 
 在线查看：[github.com/Mineocean?tab=stars](https://github.com/Mineocean?tab=stars)
@@ -36,8 +36,8 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 95,454 | TypeScript | 🎨 最好的 DeepSeek Harness 设计插件，开源版 Claude Design 替代品。🖥️ 本地优先的桌面应用。🖼️ 让编码 Agent 变成设计引擎：原型、落地页、仪表盘、幻灯片、图片与视频，产出真实文件，可导出 HTML/PDF/PPTX/MP4。🤖 通过 BYOK 接入 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode 等 20+ CLI。 |
-| [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 25,352 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 95,455 | TypeScript | 🎨 最好的 DeepSeek Harness 设计插件，开源版 Claude Design 替代品。🖥️ 本地优先的桌面应用。🖼️ 让编码 Agent 变成设计引擎：原型、落地页、仪表盘、幻灯片、图片与视频，产出真实文件，可导出 HTML/PDF/PPTX/MP4。🤖 通过 BYOK 接入 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode 等 20+ CLI。 |
+| [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 25,353 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | 7,347 | TypeScript | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发。 |
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,810 | Python | 让任何 Agent Harness 原生支持多模态。 |
 | [MerZlin/dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop) | 349 | Python | 基于项目PC2005-cloud/dsh-pet.git，将桌宠移植到Windows、Linux和MacOS上，现在可以随时看到蓝色大肥鱼了：），本项目还额外实现了其他交互功能，欢迎体验 |
@@ -51,7 +51,7 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 206,509 | TypeScript | 开源的编码 Agent。 |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 206,510 | TypeScript | 开源的编码 Agent。 |
 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 70,425 | C | 预建索引的代码知识图谱，代码改动后自动同步；支持 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro、CoPilot、Hermes Agent —— 更少 token、更少工具调用，100% 本地运行。 |
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68,918 | TypeScript | OmO：在提示词里带上「mass ulw」关键词，你就成了图工程（graph engineering）大师。 |
 | [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) | 40,943 | Rust | 为终端打造的开源编码 Agent，用 Rust 编写，持续接受社区改进，欢迎提 Issue 和 PR。 |
@@ -74,11 +74,11 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [obra/superpowers](https://github.com/obra/superpowers) | 284,751 | Shell | 一套真正可用的 Agent 技能框架与软件开发方法论。 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 258,940 | Shell | 给真正工程师的 Skills 合集，直接来自作者的 .agents 目录。 |
+| [obra/superpowers](https://github.com/obra/superpowers) | 284,752 | Shell | 一套真正可用的 Agent 技能框架与软件开发方法论。 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 258,941 | Shell | 给真正工程师的 Skills 合集，直接来自作者的 .agents 目录。 |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 86,073 | JavaScript | Taste-Skill —— 让你的 AI 有品味，别再产出无聊、千篇一律的垃圾内容。 |
-| [emilkowalski/skills](https://github.com/emilkowalski/skills) | 36,702 | Markdown | 给设计师和工程师用的 Skills。 |
-| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 34,461 | TypeScript | AI 提示词优化器：写出更好的提示词，拿到更好的结果。 |
+| [emilkowalski/skills](https://github.com/emilkowalski/skills) | 36,703 | Markdown | 给设计师和工程师用的 Skills。 |
+| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 34,462 | TypeScript | AI 提示词优化器：写出更好的提示词，拿到更好的结果。 |
 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 17,007 | — | 一个用来删掉文章里「AI 味」的 skill 文件。 |
 | [syvixor/skills-icons](https://github.com/syvixor/skills-icons) | 265 | TypeScript | 在项目或个人主页里轻松展示你的 skills 图标。 |
 
@@ -88,7 +88,7 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 122,275 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 122,276 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 49,033 | TypeScript | 💖🧸 自托管、完全属于你的 AI 伴侣：一个装载老婆 / 赛博生命灵魂的容器，目标是达到 Neuro-sama 的高度。支持实时语音聊天，能玩 Minecraft 和 Factorio，覆盖 Web / macOS / Windows。 |
 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 40,346 | Python | AI Agent 助手与开发框架，集成多种 IM 平台、LLM、插件与 AI 能力，可以作为 openclaw 的替代方案。✨ |
 | [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 15,584 | TypeScript | 一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana pro🍌 |
@@ -118,7 +118,7 @@
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | 185,984 | — | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
-| [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 75,541 | HTML | 计算机自学指南 |
+| [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 75,542 | HTML | 计算机自学指南 |
 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 68,357 | Jupyter Notebook | 12 周、24 节课，人人都能学的 AI 入门课！ |
 | [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) | 24,667 | Jupyter Notebook | 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版 |
 | [AccumulateMore/CV](https://github.com/AccumulateMore/CV) | 23,624 | Jupyter Notebook | ✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】 |
@@ -133,7 +133,7 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 175,906 | Python | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
+| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 175,907 | Python | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 102,327 | — | 科技爱好者周刊，每周五发布 |
 | [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 47,867 | — | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. |
 | [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) | 6,616 | — | 订阅人数最多的rss源，中文优质rss源 |
@@ -302,7 +302,7 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | 28,794 | Python | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 |
+| [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | 28,795 | Python | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 |
 | [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) | 25,900 | Shell | An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。 |
 | [iDvel/rime-ice](https://github.com/iDvel/rime-ice) | 19,278 | Lua | Rime 配置：雾凇拼音 \| 长期维护的简体词库 |
 | [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) | 12,746 | JavaScript | Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕 |
