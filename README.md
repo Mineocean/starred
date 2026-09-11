@@ -1,6 +1,6 @@
 # ⭐ 我的 GitHub 星标清单
 
-> 共 **172** 个仓库 · 合计 **3,771,515** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
+> 共 **172** 个仓库 · 合计 **3,771,520** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
 > 最近同步：2026-09-11 02:59 +0000 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
 > 其中 **65** 个仓库的英文简介已译为中文（见 [`i18n/zh.json`](i18n/zh.json)）
 
@@ -52,7 +52,7 @@
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 206,510 | TypeScript | 开源的编码 Agent。 |
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 70,425 | C | 预建索引的代码知识图谱，代码改动后自动同步；支持 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro、CoPilot、Hermes Agent —— 更少 token、更少工具调用，100% 本地运行。 |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 70,426 | C | 预建索引的代码知识图谱，代码改动后自动同步；支持 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro、CoPilot、Hermes Agent —— 更少 token、更少工具调用，100% 本地运行。 |
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68,918 | TypeScript | OmO：在提示词里带上「mass ulw」关键词，你就成了图工程（graph engineering）大师。 |
 | [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) | 40,943 | Rust | 为终端打造的开源编码 Agent，用 Rust 编写，持续接受社区改进，欢迎提 Issue 和 PR。 |
 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35,499 | Go | 为终端打造的 DeepSeek 原生 AI 编码 Agent，围绕前缀缓存（prefix-cache）稳定性设计，可以一直挂着跑。 |
@@ -74,7 +74,7 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [obra/superpowers](https://github.com/obra/superpowers) | 284,755 | Shell | 一套真正可用的 Agent 技能框架与软件开发方法论。 |
+| [obra/superpowers](https://github.com/obra/superpowers) | 284,757 | Shell | 一套真正可用的 Agent 技能框架与软件开发方法论。 |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | 258,946 | Shell | 给真正工程师的 Skills 合集，直接来自作者的 .agents 目录。 |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 86,073 | JavaScript | Taste-Skill —— 让你的 AI 有品味，别再产出无聊、千篇一律的垃圾内容。 |
 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 36,703 | Markdown | 给设计师和工程师用的 Skills。 |
@@ -88,7 +88,7 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 122,276 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 122,277 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 49,033 | TypeScript | 💖🧸 自托管、完全属于你的 AI 伴侣：一个装载老婆 / 赛博生命灵魂的容器，目标是达到 Neuro-sama 的高度。支持实时语音聊天，能玩 Minecraft 和 Factorio，覆盖 Web / macOS / Windows。 |
 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 40,346 | Python | AI Agent 助手与开发框架，集成多种 IM 平台、LLM、插件与 AI 能力，可以作为 openclaw 的替代方案。✨ |
 | [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 15,584 | TypeScript | 一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana pro🍌 |
@@ -144,7 +144,7 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 143,663 | TypeScript | 基于 Tauri 的现代代理 GUI 客户端，支持 Windows / macOS / Linux，可自由定制代理体验。 |
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 143,664 | TypeScript | 基于 Tauri 的现代代理 GUI 客户端，支持 Windows / macOS / Linux，可自由定制代理体验。 |
 | [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) | 28,384 | — | 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。 |
 | [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) | 26,360 | TypeScript | 又一个 Mihomo GUI（Electron）。 |
 | [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) | 20,667 | — | 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf. |
