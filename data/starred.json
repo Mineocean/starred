@@ -129,7 +129,7 @@
     "html_url": "https://github.com/anywhere-labs/dsh-desktop",
     "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
     "language": "TypeScript",
-    "stargazers_count": 25357,
+    "stargazers_count": 25363,
     "forks_count": 1226,
     "topics": [
       "cordis",
@@ -152,7 +152,7 @@
     "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
     "language": "Go",
-    "stargazers_count": 35500,
+    "stargazers_count": 35498,
     "forks_count": 2386,
     "topics": [
       "agent",
@@ -437,13 +437,13 @@
     "html_url": "https://github.com/anomalyco/opencode",
     "description": "The open source coding agent.",
     "language": "TypeScript",
-    "stargazers_count": 206510,
-    "forks_count": 27001,
+    "stargazers_count": 206513,
+    "forks_count": 27000,
     "topics": [],
     "archived": false,
     "fork": false,
     "created_at": "2025-04-30T20:08:00Z",
-    "pushed_at": "2026-09-11T03:01:04Z",
+    "pushed_at": "2026-09-11T03:03:07Z",
     "license": "MIT"
   },
   {
@@ -483,7 +483,7 @@
     "html_url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
     "language": "Shell",
-    "stargazers_count": 284757,
+    "stargazers_count": 284763,
     "forks_count": 25474,
     "topics": [
       "ai",
@@ -593,8 +593,8 @@
     "html_url": "https://github.com/Leonxlnx/taste-skill",
     "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
     "language": "JavaScript",
-    "stargazers_count": 86073,
-    "forks_count": 5874,
+    "stargazers_count": 86075,
+    "forks_count": 5875,
     "topics": [
       "agent",
       "ai",
@@ -677,7 +677,7 @@
     "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
     "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
     "language": "Python",
-    "stargazers_count": 122280,
+    "stargazers_count": 122282,
     "forks_count": 18886,
     "topics": [
       "ai-video-generator",
@@ -745,8 +745,8 @@
     "html_url": "https://github.com/mattpocock/skills",
     "description": "Skills for Real Engineers. Straight from my .agents directory.",
     "language": "Shell",
-    "stargazers_count": 258946,
-    "forks_count": 21816,
+    "stargazers_count": 258956,
+    "forks_count": 21817,
     "topics": [],
     "archived": false,
     "fork": false,
@@ -790,7 +790,7 @@
     "html_url": "https://github.com/ahujasid/blender-mcp",
     "description": "Community plugin to control Blender 3D with any LLM of your choice",
     "language": "Python",
-    "stargazers_count": 28113,
+    "stargazers_count": 28117,
     "forks_count": 2599,
     "topics": [
       "3d-modeling",
@@ -866,7 +866,7 @@
     "html_url": "https://github.com/Hmbown/Codewhale",
     "description": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
     "language": "Rust",
-    "stargazers_count": 40943,
+    "stargazers_count": 40945,
     "forks_count": 3556,
     "topics": [
       "agent-orchestration",
@@ -926,7 +926,7 @@
     "html_url": "https://github.com/linshenkx/prompt-optimizer",
     "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
     "language": "TypeScript",
-    "stargazers_count": 34462,
+    "stargazers_count": 34465,
     "forks_count": 4036,
     "topics": [
       "ai-prompts",
@@ -951,8 +951,8 @@
     "html_url": "https://github.com/nexu-io/open-design",
     "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.",
     "language": "TypeScript",
-    "stargazers_count": 95455,
-    "forks_count": 11059,
+    "stargazers_count": 95457,
+    "forks_count": 11060,
     "topics": [
       "agent-skills",
       "ai-design",
@@ -978,7 +978,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2026-04-28T04:25:20Z",
-    "pushed_at": "2026-09-11T02:35:46Z",
+    "pushed_at": "2026-09-11T03:09:43Z",
     "license": "Apache-2.0"
   },
   {
@@ -1082,7 +1082,7 @@
     "html_url": "https://github.com/AstrBotDevs/AstrBot",
     "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
     "language": "Python",
-    "stargazers_count": 40346,
+    "stargazers_count": 40347,
     "forks_count": 2903,
     "topics": [
       "agent",
@@ -1460,7 +1460,7 @@
     "html_url": "https://github.com/Anionex/banana-slides",
     "description": "一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana pro🍌",
     "language": "TypeScript",
-    "stargazers_count": 15584,
+    "stargazers_count": 15583,
     "forks_count": 1784,
     "topics": [
       "ai-ppt-maker",
@@ -1664,7 +1664,7 @@
     "html_url": "https://github.com/rustdesk/rustdesk",
     "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
     "language": "Rust",
-    "stargazers_count": 123119,
+    "stargazers_count": 123121,
     "forks_count": 18957,
     "topics": [
       "android",
@@ -1690,7 +1690,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2020-09-28T15:36:08Z",
-    "pushed_at": "2026-09-11T02:28:52Z",
+    "pushed_at": "2026-09-11T03:04:18Z",
     "license": "AGPL-3.0"
   },
   {
@@ -1756,7 +1756,7 @@
     "html_url": "https://github.com/vicinaehq/vicinae",
     "description": "A focused launcher for your desktop - native, fast, extensible",
     "language": "C++",
-    "stargazers_count": 9463,
+    "stargazers_count": 9464,
     "forks_count": 285,
     "topics": [
       "app-launcher",
@@ -1816,7 +1816,7 @@
     "html_url": "https://github.com/microsoft/AI-For-Beginners",
     "description": "12 Weeks, 24 Lessons, AI for All!",
     "language": "Jupyter Notebook",
-    "stargazers_count": 68357,
+    "stargazers_count": 68358,
     "forks_count": 13189,
     "topics": [
       "ai",
@@ -1892,7 +1892,7 @@
     "html_url": "https://github.com/CyC2018/CS-Notes",
     "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
     "language": null,
-    "stargazers_count": 185984,
+    "stargazers_count": 185985,
     "forks_count": 50755,
     "topics": [
       "algorithm",
@@ -2010,7 +2010,7 @@
     "html_url": "https://github.com/moeru-ai/airi",
     "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
     "language": "TypeScript",
-    "stargazers_count": 49033,
+    "stargazers_count": 49032,
     "forks_count": 4858,
     "topics": [
       "ai-companion",
@@ -2440,7 +2440,7 @@
     "html_url": "https://github.com/bggRGjQaUbCoE/PiliPlus",
     "description": "PiliPlus",
     "language": "Dart",
-    "stargazers_count": 18251,
+    "stargazers_count": 18253,
     "forks_count": 1295,
     "topics": [
       "android",
@@ -2493,7 +2493,7 @@
     "html_url": "https://github.com/521xueweihan/HelloGitHub",
     "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
     "language": "Python",
-    "stargazers_count": 175909,
+    "stargazers_count": 175910,
     "forks_count": 12764,
     "topics": [
       "awesome",
@@ -2959,7 +2959,7 @@
     "html_url": "https://github.com/lxgw/LxgwWenKai",
     "description": "An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  ",
     "language": "Shell",
-    "stargazers_count": 25900,
+    "stargazers_count": 25901,
     "forks_count": 640,
     "topics": [
       "cjk",
@@ -3043,7 +3043,7 @@
     "html_url": "https://github.com/HyPlayer/HyPlayer",
     "description": "仅供学习交流使用 | 第三方网易云音乐播放器 | A Netease Cloud Music Player",
     "language": "C#",
-    "stargazers_count": 1430,
+    "stargazers_count": 1431,
     "forks_count": 54,
     "topics": [],
     "archived": false,
@@ -3318,7 +3318,7 @@
     "html_url": "https://github.com/clash-verge-rev/clash-verge-rev",
     "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
     "language": "TypeScript",
-    "stargazers_count": 143664,
+    "stargazers_count": 143665,
     "forks_count": 10341,
     "topics": [
       "clash",
@@ -3431,7 +3431,7 @@
     "html_url": "https://github.com/LC044/WeChatMsg",
     "description": null,
     "language": null,
-    "stargazers_count": 42056,
+    "stargazers_count": 42058,
     "forks_count": 5319,
     "topics": [
       "chatgpt",

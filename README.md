@@ -1,7 +1,7 @@
 # ⭐ 我的 GitHub 星标清单
 
-> 共 **172** 个仓库 · 合计 **3,771,536** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
-> 最近同步：2026-09-11 11:02 +0800 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
+> 共 **172** 个仓库 · 合计 **3,771,586** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
+> 最近同步：2026-09-11 03:10 +0000 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
 > 其中 **65** 个仓库的英文简介已译为中文（见 [`i18n/zh.json`](i18n/zh.json)）
 
 在线查看：[github.com/Mineocean?tab=stars](https://github.com/Mineocean?tab=stars)
@@ -36,8 +36,8 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 95,455 | TypeScript | 🎨 最好的 DeepSeek Harness 设计插件，开源版 Claude Design 替代品。🖥️ 本地优先的桌面应用。🖼️ 让编码 Agent 变成设计引擎：原型、落地页、仪表盘、幻灯片、图片与视频，产出真实文件，可导出 HTML/PDF/PPTX/MP4。🤖 通过 BYOK 接入 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode 等 20+ CLI。 |
-| [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 25,357 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 95,457 | TypeScript | 🎨 最好的 DeepSeek Harness 设计插件，开源版 Claude Design 替代品。🖥️ 本地优先的桌面应用。🖼️ 让编码 Agent 变成设计引擎：原型、落地页、仪表盘、幻灯片、图片与视频，产出真实文件，可导出 HTML/PDF/PPTX/MP4。🤖 通过 BYOK 接入 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode 等 20+ CLI。 |
+| [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 25,363 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | 7,347 | TypeScript | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发。 |
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,810 | Python | 让任何 Agent Harness 原生支持多模态。 |
 | [MerZlin/dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop) | 349 | Python | 基于项目PC2005-cloud/dsh-pet.git，将桌宠移植到Windows、Linux和MacOS上，现在可以随时看到蓝色大肥鱼了：），本项目还额外实现了其他交互功能，欢迎体验 |
@@ -51,11 +51,11 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 206,510 | TypeScript | 开源的编码 Agent。 |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 206,513 | TypeScript | 开源的编码 Agent。 |
 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 70,426 | C | 预建索引的代码知识图谱，代码改动后自动同步；支持 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro、CoPilot、Hermes Agent —— 更少 token、更少工具调用，100% 本地运行。 |
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68,919 | TypeScript | OmO：在提示词里带上「mass ulw」关键词，你就成了图工程（graph engineering）大师。 |
-| [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) | 40,943 | Rust | 为终端打造的开源编码 Agent，用 Rust 编写，持续接受社区改进，欢迎提 Issue 和 PR。 |
-| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35,500 | Go | 为终端打造的 DeepSeek 原生 AI 编码 Agent，围绕前缀缓存（prefix-cache）稳定性设计，可以一直挂着跑。 |
+| [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) | 40,945 | Rust | 为终端打造的开源编码 Agent，用 Rust 编写，持续接受社区改进，欢迎提 Issue 和 PR。 |
+| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35,498 | Go | 为终端打造的 DeepSeek 原生 AI 编码 Agent，围绕前缀缓存（prefix-cache）稳定性设计，可以一直挂着跑。 |
 | [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) | 10,182 | JavaScript | opencode.ai 的精选插件、主题、Agent、项目与资源清单。 |
 
 <a id="mcp"></a>
@@ -65,7 +65,7 @@
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
 | [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | 36,991 | TypeScript | Playwright 的 MCP 服务器（浏览器自动化）。 |
-| [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | 28,113 | Python | 社区插件：用任意你喜欢的 LLM 控制 Blender 3D。 |
+| [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | 28,117 | Python | 社区插件：用任意你喜欢的 LLM 控制 Blender 3D。 |
 | [drfccv/mcp-server-12306](https://github.com/drfccv/mcp-server-12306) | 379 | Python | 12306 MCP Server​​ 是一个基于 ​​Model Context Protocol (MCP)​​ 的高性能火车票查询后端系统。它通过标准化接口提供官方 12306 的实时数据服务，包括余票查询、车站信息、列车经停站、中转换乘方案等核心功能。 |
 
 <a id="skills"></a>
@@ -74,11 +74,11 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [obra/superpowers](https://github.com/obra/superpowers) | 284,757 | Shell | 一套真正可用的 Agent 技能框架与软件开发方法论。 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 258,946 | Shell | 给真正工程师的 Skills 合集，直接来自作者的 .agents 目录。 |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 86,073 | JavaScript | Taste-Skill —— 让你的 AI 有品味，别再产出无聊、千篇一律的垃圾内容。 |
+| [obra/superpowers](https://github.com/obra/superpowers) | 284,763 | Shell | 一套真正可用的 Agent 技能框架与软件开发方法论。 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 258,956 | Shell | 给真正工程师的 Skills 合集，直接来自作者的 .agents 目录。 |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 86,075 | JavaScript | Taste-Skill —— 让你的 AI 有品味，别再产出无聊、千篇一律的垃圾内容。 |
 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 36,703 | Markdown | 给设计师和工程师用的 Skills。 |
-| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 34,462 | TypeScript | AI 提示词优化器：写出更好的提示词，拿到更好的结果。 |
+| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 34,465 | TypeScript | AI 提示词优化器：写出更好的提示词，拿到更好的结果。 |
 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 17,007 | — | 一个用来删掉文章里「AI 味」的 skill 文件。 |
 | [syvixor/skills-icons](https://github.com/syvixor/skills-icons) | 265 | TypeScript | 在项目或个人主页里轻松展示你的 skills 图标。 |
 
@@ -88,10 +88,10 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 122,280 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 49,033 | TypeScript | 💖🧸 自托管、完全属于你的 AI 伴侣：一个装载老婆 / 赛博生命灵魂的容器，目标是达到 Neuro-sama 的高度。支持实时语音聊天，能玩 Minecraft 和 Factorio，覆盖 Web / macOS / Windows。 |
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 40,346 | Python | AI Agent 助手与开发框架，集成多种 IM 平台、LLM、插件与 AI 能力，可以作为 openclaw 的替代方案。✨ |
-| [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 15,584 | TypeScript | 一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana pro🍌 |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 122,282 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 49,032 | TypeScript | 💖🧸 自托管、完全属于你的 AI 伴侣：一个装载老婆 / 赛博生命灵魂的容器，目标是达到 Neuro-sama 的高度。支持实时语音聊天，能玩 Minecraft 和 Factorio，覆盖 Web / macOS / Windows。 |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 40,347 | Python | AI Agent 助手与开发框架，集成多种 IM 平台、LLM、插件与 AI 能力，可以作为 openclaw 的替代方案。✨ |
+| [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 15,583 | TypeScript | 一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana pro🍌 |
 | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | 13,700 | Python | 和任意 LLM 对话：跨平台本地运行，免提语音交互、支持打断，带 Live2D 形象。 |
 | [AAswordman/Operit](https://github.com/AAswordman/Operit) | 7,689 | Kotlin | The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent |
 | [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) | 2,642 | JavaScript | ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw! |
@@ -117,9 +117,9 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | 185,984 | — | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
+| [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | 185,985 | — | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
 | [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 75,542 | HTML | 计算机自学指南 |
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 68,357 | Jupyter Notebook | 12 周、24 节课，人人都能学的 AI 入门课！ |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 68,358 | Jupyter Notebook | 12 周、24 节课，人人都能学的 AI 入门课！ |
 | [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) | 24,667 | Jupyter Notebook | 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版 |
 | [AccumulateMore/CV](https://github.com/AccumulateMore/CV) | 23,624 | Jupyter Notebook | ✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】 |
 | [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) | 16,150 | Python | Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南 |
@@ -133,7 +133,7 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 175,909 | Python | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
+| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 175,910 | Python | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 102,328 | — | 科技爱好者周刊，每周五发布 |
 | [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 47,867 | — | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. |
 | [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) | 6,616 | — | 订阅人数最多的rss源，中文优质rss源 |
@@ -144,7 +144,7 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 143,664 | TypeScript | 基于 Tauri 的现代代理 GUI 客户端，支持 Windows / macOS / Linux，可自由定制代理体验。 |
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 143,665 | TypeScript | 基于 Tauri 的现代代理 GUI 客户端，支持 Windows / macOS / Linux，可自由定制代理体验。 |
 | [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) | 28,384 | — | 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。 |
 | [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) | 26,360 | TypeScript | 又一个 Mihomo GUI（Electron）。 |
 | [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) | 20,666 | — | 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf. |
@@ -172,7 +172,7 @@
 | [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) | 7,207 | — | Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。 |
 | [AlkaidLab/foundation-sunshine](https://github.com/AlkaidLab/foundation-sunshine) | 6,795 | C++ | Sunshine 分支：增强版 Sunshine，面向 Moonlight 的自托管游戏串流主机，支持 HDR10 / HDR Vivid、虚拟显示器、进阶音频、编码器优化与现代控制面板。 |
 | [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) | 3,352 | Kotlin | A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵 |
-| [HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer) | 1,430 | C# | 仅供学习交流使用 \| 第三方网易云音乐播放器 \| A Netease Cloud Music Player |
+| [HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer) | 1,431 | C# | 仅供学习交流使用 \| 第三方网易云音乐播放器 \| A Netease Cloud Music Player |
 | [NewOrin/TVBox](https://github.com/NewOrin/TVBox) | 932 | — | TVbox开源版（空壳-自行配置） |
 | [Sherlockouo/music](https://github.com/Sherlockouo/music) | 701 | TypeScript | a music player forked from YesPlayMusic。高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron/Docker: |
 | [metowolf/Meting-API](https://github.com/metowolf/Meting-API) | 153 | JavaScript | 🐳 Meting API 的容器化 |
@@ -208,7 +208,7 @@
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
 | [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | 30,458 | TypeScript | 强大的哔哩哔哩增强脚本 |
-| [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | 18,251 | Dart | 哔哩哔哩第三方客户端（Flutter）。 |
+| [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | 18,253 | Dart | 哔哩哔哩第三方客户端（Flutter）。 |
 | [keleus/BewlyCat](https://github.com/keleus/BewlyCat) | 4,193 | Vue | BewlyCat——基于BewlyBewly开发的Bilibili拓展 |
 | [zly2006/zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus) | 3,992 | Kotlin | Zhihu++ \| 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验 |
 | [orz12/PiliPalaX](https://github.com/orz12/PiliPalaX) 🗄️ | 3,415 | Dart | PiliPalaX 是使用Flutter开发的BiliBili第三方客户端，感谢使用，欢迎Star。 |
@@ -225,11 +225,11 @@
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | 190,089 | Batchfile | 开源 Windows / Office 激活脚本，支持 HWID、Ohook、TSforge 与在线 KMS 等方式，并附高级排错指南。 |
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 123,119 | Rust | 可自托管的开源远程桌面应用，TeamViewer 的替代方案。 |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 123,121 | Rust | 可自托管的开源远程桌面应用，TeamViewer 的替代方案。 |
 | [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | 15,538 | C# | 🔍 Windows 快速文件搜索与应用启动器，支持社区插件。 |
 | [M2Team/NanaZip](https://github.com/M2Team/NanaZip) | 15,492 | C++ | 面向现代 Windows 体验的 7-Zip 衍生版。 |
 | [seerge/g-helper](https://github.com/seerge/g-helper) | 15,117 | C# | 华硕笔记本的轻量级 Armoury Crate 替代品，功能几乎一致；支持 ROG 幻系列 / Flow / TUF / Strix / Scar / ProArt、Vivobook、Zenbook、Expertbook、ROG Ally 等机型。 |
-| [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | 9,463 | C++ | 专注高效的桌面启动器 —— 原生、快速、可扩展。 |
+| [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | 9,464 | C++ | 专注高效的桌面启动器 —— 原生、快速、可扩展。 |
 | [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) | 7,388 | Rust | 🎉跨平台的剪贴板管理工具 \| Cross-platform clipboard management tool |
 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3,541 | C# | 快速、免费、可定制的图片查看器。 |
 | [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell) | 3,303 | C++ | 替代 Windows 右键菜单，以及更多。 |
@@ -303,7 +303,7 @@
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
 | [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | 28,795 | Python | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 |
-| [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) | 25,900 | Shell | An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。 |
+| [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) | 25,901 | Shell | An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。 |
 | [iDvel/rime-ice](https://github.com/iDvel/rime-ice) | 19,278 | Lua | Rime 配置：雾凇拼音 \| 长期维护的简体词库 |
 | [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) | 12,746 | JavaScript | Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕 |
 | [lxgw/LxgwZhenKai](https://github.com/lxgw/LxgwZhenKai) | 875 | — | 霞鹜臻楷：基于「霞鹜文楷」衍生，前期手动加粗调整字形，后期由 AI 生成字形辅助补字的开源中文字体。A bolder weight, AI-assisted font derived from LXGW Wenkai. |
@@ -316,7 +316,7 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) | 42,056 | — | — |
+| [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) | 42,058 | — | — |
 | [motiondivision/motion](https://github.com/motiondivision/motion) | 33,555 | TypeScript | 面向 React 与 JavaScript 的现代动画库。 |
 | [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) | 32,105 | — | 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！ |
 | [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) | 6,452 | JavaScript | 🏖️ 基于 Cloudflare 的无服务器开源文件托管方案，支持图床、安全文件存储与个人云盘。 |
