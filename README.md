@@ -1,7 +1,7 @@
 # ⭐ 我的 GitHub 星标清单
 
-> 共 **172** 个仓库 · 合计 **3,771,460** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
-> 最近同步：2026-09-11 10:47 +0800 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
+> 共 **172** 个仓库 · 合计 **3,771,461** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
+> 最近同步：2026-09-11 02:48 +0000 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
 
 在线查看：[github.com/Mineocean?tab=stars](https://github.com/Mineocean?tab=stars)
 
@@ -73,7 +73,7 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [obra/superpowers](https://github.com/obra/superpowers) | 284,745 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 284,747 | Shell | An agentic skills framework & software development methodology that works. |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | 258,938 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 86,070 | JavaScript | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 36,701 | Markdown | Skills for Designers and Engineers. |
@@ -118,7 +118,7 @@
 | --- | ---: | --- | --- |
 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | 185,984 | — | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
 | [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 75,541 | HTML | 计算机自学指南 |
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 68,358 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 68,357 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
 | [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) | 24,667 | Jupyter Notebook | 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版 |
 | [AccumulateMore/CV](https://github.com/AccumulateMore/CV) | 23,624 | Jupyter Notebook | ✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】 |
 | [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) | 16,149 | Python | Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南 |
@@ -208,7 +208,7 @@
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
 | [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | 30,458 | TypeScript | 强大的哔哩哔哩增强脚本 |
-| [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | 18,250 | Dart | PiliPlus |
+| [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | 18,249 | Dart | PiliPlus |
 | [keleus/BewlyCat](https://github.com/keleus/BewlyCat) | 4,193 | Vue | BewlyCat——基于BewlyBewly开发的Bilibili拓展 |
 | [zly2006/zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus) | 3,992 | Kotlin | Zhihu++ \| 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验 |
 | [orz12/PiliPalaX](https://github.com/orz12/PiliPalaX) 🗄️ | 3,415 | Dart | PiliPalaX 是使用Flutter开发的BiliBili第三方客户端，感谢使用，欢迎Star。 |
@@ -236,7 +236,7 @@
 | [w4po/ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) | 2,915 | C# | 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more! |
 | [ShirasawaSama/CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) | 2,598 | JavaScript | 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF. |
 | [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) | 2,553 | TypeScript | BookmarkHub , sync bookmarks across different browsers |
-| [aakk007/RogueCleaner](https://github.com/aakk007/RogueCleaner) | 1,002 | C# | 流氓软件克星：扫描和清理 Windows 流氓右键菜单、自启动、计划任务、服务、浏览器插件和文件关联残留 |
+| [aakk007/RogueCleaner](https://github.com/aakk007/RogueCleaner) | 1,003 | C# | 流氓软件克星：扫描和清理 Windows 流氓右键菜单、自启动、计划任务、服务、浏览器插件和文件关联残留 |
 | [Kami958/WhoShitsonMyC](https://github.com/Kami958/WhoShitsonMyC) | 512 | Python | 磁盘空间变化对比轻量小工具；A lightweight disk space change comparison tool. |
 
 <a id="android"></a>
