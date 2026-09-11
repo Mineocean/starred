@@ -1,7 +1,7 @@
 # ⭐ 我的 GitHub 星标清单
 
-> 共 **172** 个仓库 · 合计 **3,771,531** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
-> 最近同步：2026-09-11 03:01 +0000 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
+> 共 **172** 个仓库 · 合计 **3,771,536** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
+> 最近同步：2026-09-11 11:02 +0800 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
 > 其中 **65** 个仓库的英文简介已译为中文（见 [`i18n/zh.json`](i18n/zh.json)）
 
 在线查看：[github.com/Mineocean?tab=stars](https://github.com/Mineocean?tab=stars)
@@ -53,7 +53,7 @@
 | --- | ---: | --- | --- |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 206,510 | TypeScript | 开源的编码 Agent。 |
 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 70,426 | C | 预建索引的代码知识图谱，代码改动后自动同步；支持 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro、CoPilot、Hermes Agent —— 更少 token、更少工具调用，100% 本地运行。 |
-| [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68,918 | TypeScript | OmO：在提示词里带上「mass ulw」关键词，你就成了图工程（graph engineering）大师。 |
+| [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68,919 | TypeScript | OmO：在提示词里带上「mass ulw」关键词，你就成了图工程（graph engineering）大师。 |
 | [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) | 40,943 | Rust | 为终端打造的开源编码 Agent，用 Rust 编写，持续接受社区改进，欢迎提 Issue 和 PR。 |
 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35,500 | Go | 为终端打造的 DeepSeek 原生 AI 编码 Agent，围绕前缀缓存（prefix-cache）稳定性设计，可以一直挂着跑。 |
 | [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) | 10,182 | JavaScript | opencode.ai 的精选插件、主题、Agent、项目与资源清单。 |
@@ -88,7 +88,7 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 122,278 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 122,280 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 49,033 | TypeScript | 💖🧸 自托管、完全属于你的 AI 伴侣：一个装载老婆 / 赛博生命灵魂的容器，目标是达到 Neuro-sama 的高度。支持实时语音聊天，能玩 Minecraft 和 Factorio，覆盖 Web / macOS / Windows。 |
 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 40,346 | Python | AI Agent 助手与开发框架，集成多种 IM 平台、LLM、插件与 AI 能力，可以作为 openclaw 的替代方案。✨ |
 | [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 15,584 | TypeScript | 一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana pro🍌 |
@@ -133,7 +133,7 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 175,908 | Python | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
+| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 175,909 | Python | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 102,328 | — | 科技爱好者周刊，每周五发布 |
 | [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 47,867 | — | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. |
 | [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) | 6,616 | — | 订阅人数最多的rss源，中文优质rss源 |
@@ -148,7 +148,7 @@
 | [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) | 28,384 | — | 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。 |
 | [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) | 26,360 | TypeScript | 又一个 Mihomo GUI（Electron）。 |
 | [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) | 20,666 | — | 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf. |
-| [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | 13,166 | Rust | Clash Nyanpasu～(∠・ω< )⌒☆ |
+| [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | 13,167 | Rust | Clash Nyanpasu～(∠・ω< )⌒☆ |
 | [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) | 8,620 | — | Surfboard 官网入口：getsurfboard.com。 |
 | [xishang0128/sparkle](https://github.com/xishang0128/sparkle) | 7,815 | TypeScript | 又一个 Mihomo GUI（Electron，施工中…）。 |
 | [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters) | 7,521 | Python | 去广告合并规则，每8个小时更新一次。 |
