@@ -1,7 +1,7 @@
 # ⭐ 我的 GitHub 星标清单
 
-> 共 **172** 个仓库 · 合计 **3,771,477** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
-> 最近同步：2026-09-11 10:52 +0800 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
+> 共 **172** 个仓库 · 合计 **3,771,481** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
+> 最近同步：2026-09-11 02:52 +0000 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
 > 其中 **65** 个仓库的英文简介已译为中文（见 [`i18n/zh.json`](i18n/zh.json)）
 
 在线查看：[github.com/Mineocean?tab=stars](https://github.com/Mineocean?tab=stars)
@@ -36,7 +36,7 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 95,453 | TypeScript | 🎨 最好的 DeepSeek Harness 设计插件，开源版 Claude Design 替代品。🖥️ 本地优先的桌面应用。🖼️ 让编码 Agent 变成设计引擎：原型、落地页、仪表盘、幻灯片、图片与视频，产出真实文件，可导出 HTML/PDF/PPTX/MP4。🤖 通过 BYOK 接入 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode 等 20+ CLI。 |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 95,454 | TypeScript | 🎨 最好的 DeepSeek Harness 设计插件，开源版 Claude Design 替代品。🖥️ 本地优先的桌面应用。🖼️ 让编码 Agent 变成设计引擎：原型、落地页、仪表盘、幻灯片、图片与视频，产出真实文件，可导出 HTML/PDF/PPTX/MP4。🤖 通过 BYOK 接入 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode 等 20+ CLI。 |
 | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 25,348 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | 7,347 | TypeScript | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发。 |
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,810 | Python | 让任何 Agent Harness 原生支持多模态。 |
@@ -74,9 +74,9 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [obra/superpowers](https://github.com/obra/superpowers) | 284,749 | Shell | 一套真正可用的 Agent 技能框架与软件开发方法论。 |
+| [obra/superpowers](https://github.com/obra/superpowers) | 284,750 | Shell | 一套真正可用的 Agent 技能框架与软件开发方法论。 |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | 258,940 | Shell | 给真正工程师的 Skills 合集，直接来自作者的 .agents 目录。 |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 86,072 | JavaScript | Taste-Skill —— 让你的 AI 有品味，别再产出无聊、千篇一律的垃圾内容。 |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 86,073 | JavaScript | Taste-Skill —— 让你的 AI 有品味，别再产出无聊、千篇一律的垃圾内容。 |
 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 36,702 | Markdown | 给设计师和工程师用的 Skills。 |
 | [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 34,461 | TypeScript | AI 提示词优化器：写出更好的提示词，拿到更好的结果。 |
 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 17,007 | — | 一个用来删掉文章里「AI 味」的 skill 文件。 |
@@ -134,7 +134,7 @@
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 175,906 | Python | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
-| [ruanyf/weekly](https://github.com/ruanyf/weekly) | 102,325 | — | 科技爱好者周刊，每周五发布 |
+| [ruanyf/weekly](https://github.com/ruanyf/weekly) | 102,326 | — | 科技爱好者周刊，每周五发布 |
 | [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 47,867 | — | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. |
 | [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) | 6,616 | — | 订阅人数最多的rss源，中文优质rss源 |
 

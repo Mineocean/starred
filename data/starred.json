@@ -87,7 +87,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -203,7 +203,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -337,7 +337,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -453,7 +453,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -576,7 +576,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -692,7 +692,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -818,7 +818,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -943,7 +943,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -1078,7 +1078,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -1194,7 +1194,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -1318,7 +1318,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -1437,7 +1437,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -1553,7 +1553,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -1676,7 +1676,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -1786,7 +1786,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -1797,7 +1797,7 @@
     "releases_url": "https://api.github.com/repos/ruanyf/weekly/releases{/id}",
     "size": 8038,
     "ssh_url": "git@github.com:ruanyf/weekly.git",
-    "stargazers_count": 102325,
+    "stargazers_count": 102326,
     "stargazers_url": "https://api.github.com/repos/ruanyf/weekly/stargazers",
     "statuses_url": "https://api.github.com/repos/ruanyf/weekly/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/ruanyf/weekly/subscribers",
@@ -1807,11 +1807,11 @@
     "teams_url": "https://api.github.com/repos/ruanyf/weekly/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/ruanyf/weekly/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:39:40Z",
+    "updated_at": "2026-09-11T02:52:22Z",
     "url": "https://api.github.com/repos/ruanyf/weekly",
     "visibility": "public",
-    "watchers": 102325,
-    "watchers_count": 102325,
+    "watchers": 102326,
+    "watchers_count": 102326,
     "web_commit_signoff_required": false
   },
   {
@@ -1902,7 +1902,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -2018,7 +2018,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -2152,7 +2152,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -2286,7 +2286,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -2411,7 +2411,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -2534,7 +2534,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -2650,7 +2650,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -2766,7 +2766,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -2882,7 +2882,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -3002,7 +3002,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -3013,7 +3013,7 @@
     "releases_url": "https://api.github.com/repos/obra/superpowers/releases{/id}",
     "size": 4763,
     "ssh_url": "git@github.com:obra/superpowers.git",
-    "stargazers_count": 284749,
+    "stargazers_count": 284750,
     "stargazers_url": "https://api.github.com/repos/obra/superpowers/stargazers",
     "statuses_url": "https://api.github.com/repos/obra/superpowers/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/obra/superpowers/subscribers",
@@ -3032,11 +3032,11 @@
       "superpowers"
     ],
     "trees_url": "https://api.github.com/repos/obra/superpowers/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:49:44Z",
+    "updated_at": "2026-09-11T02:52:21Z",
     "url": "https://api.github.com/repos/obra/superpowers",
     "visibility": "public",
-    "watchers": 284749,
-    "watchers_count": 284749,
+    "watchers": 284750,
+    "watchers_count": 284750,
     "web_commit_signoff_required": false
   },
   {
@@ -3127,7 +3127,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -3258,7 +3258,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -3374,7 +3374,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -3492,7 +3492,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -3608,7 +3608,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -3724,7 +3724,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -3735,7 +3735,7 @@
     "releases_url": "https://api.github.com/repos/Leonxlnx/taste-skill/releases{/id}",
     "size": 33814,
     "ssh_url": "git@github.com:Leonxlnx/taste-skill.git",
-    "stargazers_count": 86072,
+    "stargazers_count": 86073,
     "stargazers_url": "https://api.github.com/repos/Leonxlnx/taste-skill/stargazers",
     "statuses_url": "https://api.github.com/repos/Leonxlnx/taste-skill/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/Leonxlnx/taste-skill/subscribers",
@@ -3759,11 +3759,11 @@
       "vibecoding"
     ],
     "trees_url": "https://api.github.com/repos/Leonxlnx/taste-skill/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:51:15Z",
+    "updated_at": "2026-09-11T02:52:16Z",
     "url": "https://api.github.com/repos/Leonxlnx/taste-skill",
     "visibility": "public",
-    "watchers": 86072,
-    "watchers_count": 86072,
+    "watchers": 86073,
+    "watchers_count": 86073,
     "web_commit_signoff_required": false
   },
   {
@@ -3854,7 +3854,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -3977,7 +3977,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -4100,7 +4100,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -4216,7 +4216,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -4347,7 +4347,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -4474,7 +4474,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -4590,7 +4590,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -4700,7 +4700,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -4833,7 +4833,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -4954,7 +4954,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -5075,7 +5075,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -5209,7 +5209,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -5337,7 +5337,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -5473,7 +5473,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -5600,7 +5600,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -5611,7 +5611,7 @@
     "releases_url": "https://api.github.com/repos/nexu-io/open-design/releases{/id}",
     "size": 2181951,
     "ssh_url": "git@github.com:nexu-io/open-design.git",
-    "stargazers_count": 95453,
+    "stargazers_count": 95454,
     "stargazers_url": "https://api.github.com/repos/nexu-io/open-design/stargazers",
     "statuses_url": "https://api.github.com/repos/nexu-io/open-design/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/nexu-io/open-design/subscribers",
@@ -5642,11 +5642,11 @@
       "vibe-coding"
     ],
     "trees_url": "https://api.github.com/repos/nexu-io/open-design/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:50:46Z",
+    "updated_at": "2026-09-11T02:52:01Z",
     "url": "https://api.github.com/repos/nexu-io/open-design",
     "visibility": "public",
-    "watchers": 95453,
-    "watchers_count": 95453,
+    "watchers": 95454,
+    "watchers_count": 95454,
     "web_commit_signoff_required": false
   },
   {
@@ -5737,7 +5737,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -5857,7 +5857,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -5973,7 +5973,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -6010,7 +6010,7 @@
       "typescript"
     ],
     "trees_url": "https://api.github.com/repos/code-yeongyu/oh-my-openagent/git/trees{/sha}",
-    "updated_at": "2026-09-11T02:39:20Z",
+    "updated_at": "2026-09-11T02:51:59Z",
     "url": "https://api.github.com/repos/code-yeongyu/oh-my-openagent",
     "visibility": "public",
     "watchers": 68918,
@@ -6099,7 +6099,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -6209,7 +6209,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -6325,7 +6325,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -6453,7 +6453,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -6569,7 +6569,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -6682,7 +6682,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -6809,7 +6809,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -6925,7 +6925,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -7035,7 +7035,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -7156,7 +7156,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -7276,7 +7276,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -7406,7 +7406,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -7516,7 +7516,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -7636,7 +7636,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -7771,7 +7771,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -7903,7 +7903,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -8025,7 +8025,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -8145,7 +8145,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -8255,7 +8255,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -8373,7 +8373,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -8489,7 +8489,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -8611,7 +8611,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -8738,7 +8738,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -8858,7 +8858,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -8978,7 +8978,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -9094,7 +9094,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -9210,7 +9210,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -9323,7 +9323,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -9439,7 +9439,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -9555,7 +9555,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -9675,7 +9675,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -9808,7 +9808,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -9931,7 +9931,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -10061,7 +10061,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -10177,7 +10177,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -10304,7 +10304,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -10425,7 +10425,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -10552,7 +10552,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -10668,7 +10668,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -10791,7 +10791,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -10918,7 +10918,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -11041,7 +11041,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -11167,7 +11167,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -11286,7 +11286,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -11396,7 +11396,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -11512,7 +11512,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -11635,7 +11635,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -11769,7 +11769,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -11885,7 +11885,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -12013,7 +12013,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -12129,7 +12129,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -12251,7 +12251,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -12367,7 +12367,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -12496,7 +12496,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -12612,7 +12612,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -12728,7 +12728,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -12848,7 +12848,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -12985,7 +12985,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -13107,7 +13107,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -13225,7 +13225,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -13341,7 +13341,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -13458,7 +13458,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -13568,7 +13568,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -13689,7 +13689,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -13815,7 +13815,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -13940,7 +13940,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -14068,7 +14068,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -14189,7 +14189,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -14317,7 +14317,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -14433,7 +14433,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -14556,7 +14556,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -14684,7 +14684,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -14799,7 +14799,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -14912,7 +14912,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -15045,7 +15045,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -15166,7 +15166,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -15288,7 +15288,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -15405,7 +15405,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -15521,7 +15521,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -15637,7 +15637,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -15767,7 +15767,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -15899,7 +15899,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -16023,7 +16023,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -16139,7 +16139,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -16258,7 +16258,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -16380,7 +16380,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -16510,7 +16510,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -16629,7 +16629,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -16762,7 +16762,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -16878,7 +16878,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -17014,7 +17014,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -17137,7 +17137,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -17268,7 +17268,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -17388,7 +17388,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -17504,7 +17504,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -17625,7 +17625,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -17760,7 +17760,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -17876,7 +17876,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -18007,7 +18007,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -18134,7 +18134,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -18268,7 +18268,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -18384,7 +18384,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -18500,7 +18500,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -18626,7 +18626,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -18760,7 +18760,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -18880,7 +18880,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -19002,7 +19002,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -19123,7 +19123,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -19259,7 +19259,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -19384,7 +19384,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -19505,7 +19505,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -19622,7 +19622,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -19743,7 +19743,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -19870,7 +19870,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -19991,7 +19991,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -20117,7 +20117,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -20254,7 +20254,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -20385,7 +20385,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -20510,7 +20510,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -20638,7 +20638,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -20753,7 +20753,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -20867,7 +20867,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
@@ -20983,7 +20983,7 @@
     "permissions": {
       "admin": false,
       "maintain": false,
-      "pull": true,
+      "pull": false,
       "push": false,
       "triage": false
     },
