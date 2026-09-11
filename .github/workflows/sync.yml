@@ -1,0 +1,38 @@
+name: Sync starred repos
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # 每天 UTC 03:17
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      STAR_SOURCE: public
+      STAR_OWNER: ${{ github.repository_owner }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Regenerate README
+        run: python sync.py
+
+      - name: Commit changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "没有变化，跳过提交。"
+            exit 0
+          fi
+          git add README.md data/starred.json
+          git commit -m "chore: sync starred repos ($(date -u +%Y-%m-%d))"
+          git push
