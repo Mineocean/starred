@@ -1,6 +1,6 @@
 # ⭐ 我的 GitHub 星标清单
 
-> 共 **172** 个仓库 · 合计 **3,771,528** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
+> 共 **172** 个仓库 · 合计 **3,771,531** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
 > 最近同步：2026-09-11 03:01 +0000 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
 > 其中 **65** 个仓库的英文简介已译为中文（见 [`i18n/zh.json`](i18n/zh.json)）
 
@@ -37,7 +37,7 @@
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 95,455 | TypeScript | 🎨 最好的 DeepSeek Harness 设计插件，开源版 Claude Design 替代品。🖥️ 本地优先的桌面应用。🖼️ 让编码 Agent 变成设计引擎：原型、落地页、仪表盘、幻灯片、图片与视频，产出真实文件，可导出 HTML/PDF/PPTX/MP4。🤖 通过 BYOK 接入 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode 等 20+ CLI。 |
-| [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 25,356 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
+| [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 25,357 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | 7,347 | TypeScript | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发。 |
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,810 | Python | 让任何 Agent Harness 原生支持多模态。 |
 | [MerZlin/dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop) | 349 | Python | 基于项目PC2005-cloud/dsh-pet.git，将桌宠移植到Windows、Linux和MacOS上，现在可以随时看到蓝色大肥鱼了：），本项目还额外实现了其他交互功能，欢迎体验 |
@@ -122,7 +122,7 @@
 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 68,357 | Jupyter Notebook | 12 周、24 节课，人人都能学的 AI 入门课！ |
 | [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) | 24,667 | Jupyter Notebook | 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版 |
 | [AccumulateMore/CV](https://github.com/AccumulateMore/CV) | 23,624 | Jupyter Notebook | ✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】 |
-| [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) | 16,149 | Python | Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南 |
+| [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) | 16,150 | Python | Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南 |
 | [0voice/introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual) | 8,256 | C++ | 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。 |
 | [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend) | 3,689 | Java | 边玩游戏边学编程。 |
 | [yzr278892/arxiv-daily-researcher](https://github.com/yzr278892/arxiv-daily-researcher) | 320 | Python | 每天早上打开通知，高质量论文摘要已经为你准备好 Ciallo～(∠・ω< )⌒☆ |
@@ -134,7 +134,7 @@
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 175,908 | Python | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
-| [ruanyf/weekly](https://github.com/ruanyf/weekly) | 102,327 | — | 科技爱好者周刊，每周五发布 |
+| [ruanyf/weekly](https://github.com/ruanyf/weekly) | 102,328 | — | 科技爱好者周刊，每周五发布 |
 | [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 47,867 | — | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. |
 | [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) | 6,616 | — | 订阅人数最多的rss源，中文优质rss源 |
 
