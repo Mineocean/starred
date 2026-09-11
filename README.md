@@ -1,7 +1,7 @@
 # ⭐ 我的 GitHub 星标清单
 
-> 共 **172** 个仓库 · 合计 **3,771,481** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
-> 最近同步：2026-09-11 02:52 +0000 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
+> 共 **172** 个仓库 · 合计 **3,771,493** 星 · 主要语言：TypeScript 30, Python 27, JavaScript 18, C# 12, Kotlin 10, C++ 7
+> 最近同步：2026-09-11 02:54 +0000 · 由 [`sync.py`](sync.py) 自动生成，**请勿手动编辑本文件**
 > 其中 **65** 个仓库的英文简介已译为中文（见 [`i18n/zh.json`](i18n/zh.json)）
 
 在线查看：[github.com/Mineocean?tab=stars](https://github.com/Mineocean?tab=stars)
@@ -37,7 +37,7 @@
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 95,454 | TypeScript | 🎨 最好的 DeepSeek Harness 设计插件，开源版 Claude Design 替代品。🖥️ 本地优先的桌面应用。🖼️ 让编码 Agent 变成设计引擎：原型、落地页、仪表盘、幻灯片、图片与视频，产出真实文件，可导出 HTML/PDF/PPTX/MP4。🤖 通过 BYOK 接入 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode 等 20+ CLI。 |
-| [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 25,348 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
+| [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 25,352 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
 | [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) | 7,347 | TypeScript | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发。 |
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,810 | Python | 让任何 Agent Harness 原生支持多模态。 |
 | [MerZlin/dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop) | 349 | Python | 基于项目PC2005-cloud/dsh-pet.git，将桌宠移植到Windows、Linux和MacOS上，现在可以随时看到蓝色大肥鱼了：），本项目还额外实现了其他交互功能，欢迎体验 |
@@ -51,7 +51,7 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 206,508 | TypeScript | 开源的编码 Agent。 |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 206,509 | TypeScript | 开源的编码 Agent。 |
 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 70,425 | C | 预建索引的代码知识图谱，代码改动后自动同步；支持 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro、CoPilot、Hermes Agent —— 更少 token、更少工具调用，100% 本地运行。 |
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 68,918 | TypeScript | OmO：在提示词里带上「mass ulw」关键词，你就成了图工程（graph engineering）大师。 |
 | [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) | 40,943 | Rust | 为终端打造的开源编码 Agent，用 Rust 编写，持续接受社区改进，欢迎提 Issue 和 PR。 |
@@ -65,7 +65,7 @@
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
 | [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | 36,991 | TypeScript | Playwright 的 MCP 服务器（浏览器自动化）。 |
-| [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | 28,112 | Python | 社区插件：用任意你喜欢的 LLM 控制 Blender 3D。 |
+| [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | 28,113 | Python | 社区插件：用任意你喜欢的 LLM 控制 Blender 3D。 |
 | [drfccv/mcp-server-12306](https://github.com/drfccv/mcp-server-12306) | 379 | Python | 12306 MCP Server​​ 是一个基于 ​​Model Context Protocol (MCP)​​ 的高性能火车票查询后端系统。它通过标准化接口提供官方 12306 的实时数据服务，包括余票查询、车站信息、列车经停站、中转换乘方案等核心功能。 |
 
 <a id="skills"></a>
@@ -74,7 +74,7 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [obra/superpowers](https://github.com/obra/superpowers) | 284,750 | Shell | 一套真正可用的 Agent 技能框架与软件开发方法论。 |
+| [obra/superpowers](https://github.com/obra/superpowers) | 284,751 | Shell | 一套真正可用的 Agent 技能框架与软件开发方法论。 |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | 258,940 | Shell | 给真正工程师的 Skills 合集，直接来自作者的 .agents 目录。 |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 86,073 | JavaScript | Taste-Skill —— 让你的 AI 有品味，别再产出无聊、千篇一律的垃圾内容。 |
 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | 36,702 | Markdown | 给设计师和工程师用的 Skills。 |
@@ -134,7 +134,7 @@
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 175,906 | Python | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
-| [ruanyf/weekly](https://github.com/ruanyf/weekly) | 102,326 | — | 科技爱好者周刊，每周五发布 |
+| [ruanyf/weekly](https://github.com/ruanyf/weekly) | 102,327 | — | 科技爱好者周刊，每周五发布 |
 | [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 47,867 | — | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. |
 | [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) | 6,616 | — | 订阅人数最多的rss源，中文优质rss源 |
 
@@ -144,13 +144,13 @@
 
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 143,661 | TypeScript | 基于 Tauri 的现代代理 GUI 客户端，支持 Windows / macOS / Linux，可自由定制代理体验。 |
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 143,663 | TypeScript | 基于 Tauri 的现代代理 GUI 客户端，支持 Windows / macOS / Linux，可自由定制代理体验。 |
 | [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) | 28,384 | — | 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。 |
 | [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) | 26,360 | TypeScript | 又一个 Mihomo GUI（Electron）。 |
 | [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) | 20,667 | — | 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf. |
 | [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | 13,166 | Rust | Clash Nyanpasu～(∠・ω< )⌒☆ |
 | [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) | 8,620 | — | Surfboard 官网入口：getsurfboard.com。 |
-| [xishang0128/sparkle](https://github.com/xishang0128/sparkle) | 7,813 | TypeScript | 又一个 Mihomo GUI（Electron，施工中…）。 |
+| [xishang0128/sparkle](https://github.com/xishang0128/sparkle) | 7,814 | TypeScript | 又一个 Mihomo GUI（Electron，施工中…）。 |
 | [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters) | 7,521 | Python | 去广告合并规则，每8个小时更新一次。 |
 | [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) | 6,457 | Adblock Filter List | 众多优秀广告规则的上游、开源社区中最棒的广告过滤器之一。适配AdGuard/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等主流广告拦截工具/代理工具。 |
 | [SukkaW/Surge](https://github.com/SukkaW/Surge) | 4,468 | TypeScript | Surge / Mihomo (Clash.Meta) / Clash Premium / sing-box / Android 版 Surfboard / Stash 的规则片段与规则集。 |
@@ -208,7 +208,7 @@
 | 仓库 | ⭐ | 语言 | 简介 |
 | --- | ---: | --- | --- |
 | [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | 30,458 | TypeScript | 强大的哔哩哔哩增强脚本 |
-| [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | 18,249 | Dart | 哔哩哔哩第三方客户端（Flutter）。 |
+| [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | 18,250 | Dart | 哔哩哔哩第三方客户端（Flutter）。 |
 | [keleus/BewlyCat](https://github.com/keleus/BewlyCat) | 4,193 | Vue | BewlyCat——基于BewlyBewly开发的Bilibili拓展 |
 | [zly2006/zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus) | 3,992 | Kotlin | Zhihu++ \| 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验 |
 | [orz12/PiliPalaX](https://github.com/orz12/PiliPalaX) 🗄️ | 3,415 | Dart | PiliPalaX 是使用Flutter开发的BiliBili第三方客户端，感谢使用，欢迎Star。 |
