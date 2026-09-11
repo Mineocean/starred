@@ -197,6 +197,27 @@ def load_zh() -> dict:
     return {k: v for k, v in data.items() if not k.startswith("_") and v}
 
 
+KEEP_FIELDS = (
+    "full_name", "html_url", "description", "language", "stargazers_count",
+    "forks_count", "topics", "archived", "fork", "created_at", "pushed_at", "license",
+)
+
+
+def slim(repo: dict) -> dict:
+    """只保留清单用得到的字段。
+
+    starred 接口里的 permissions 等字段会随抓取身份(带 token 与否)而变,
+    留着会让本地与 CI 的快照互相打架, 每次同步都产生大片假 diff。
+    """
+    out = {}
+    for key in KEEP_FIELDS:
+        value = repo.get(key)
+        if key == "license" and isinstance(value, dict):
+            value = value.get("spdx_id")
+        out[key] = value
+    return out
+
+
 def describe(repo: dict, zh: dict) -> str:
     """优先用中文译文, 否则用仓库原文。"""
     translated = zh.get(repo["full_name"])
@@ -314,7 +335,7 @@ def main() -> None:
 
     (ROOT / "data").mkdir(exist_ok=True)
     (ROOT / "data" / "starred.json").write_text(
-        json.dumps(repos, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n"
+        json.dumps([slim(r) for r in repos], ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n"
     )
     now = datetime.datetime.now().astimezone().strftime("%Y-%m-%d %H:%M %z")
     readme = ROOT / "README.md"
