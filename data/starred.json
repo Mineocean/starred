@@ -21,7 +21,7 @@
     "html_url": "https://github.com/LBEILC/RhineLabUI",
     "description": "Rhine Lab archive interface built with TypeScript and Three.js",
     "language": "TypeScript",
-    "stargazers_count": 898,
+    "stargazers_count": 905,
     "forks_count": 121,
     "topics": [],
     "archived": false,
@@ -35,8 +35,8 @@
     "html_url": "https://github.com/hugohe3/ppt-master",
     "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
     "language": "Python",
-    "stargazers_count": 71900,
-    "forks_count": 5617,
+    "stargazers_count": 72412,
+    "forks_count": 5674,
     "topics": [
       "ai-agent",
       "aippt",
@@ -60,13 +60,13 @@
     "html_url": "https://github.com/HaoZai000/NexioSchedule",
     "description": null,
     "language": "Kotlin",
-    "stargazers_count": 199,
+    "stargazers_count": 200,
     "forks_count": 25,
     "topics": [],
     "archived": false,
     "fork": false,
     "created_at": "2026-07-12T07:30:55Z",
-    "pushed_at": "2026-10-31T12:58:38Z",
+    "pushed_at": "2026-11-02T11:05:01Z",
     "license": "AGPL-3.0"
   },
   {
@@ -74,7 +74,7 @@
     "html_url": "https://github.com/lingion/sleepy",
     "description": "Sleepy 课程表 — Material You 设计的纯净 Android 课表 App，多视图/小组件/教务导入/HSV配色",
     "language": "Kotlin",
-    "stargazers_count": 82,
+    "stargazers_count": 85,
     "forks_count": 13,
     "topics": [
       "android",
@@ -88,7 +88,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2026-06-16T17:39:15Z",
-    "pushed_at": "2026-11-01T10:18:59Z",
+    "pushed_at": "2026-11-02T10:56:07Z",
     "license": "GPL-3.0"
   },
   {
@@ -96,13 +96,13 @@
     "html_url": "https://github.com/verl-project/verl",
     "description": "verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework ",
     "language": "Python",
-    "stargazers_count": 24091,
-    "forks_count": 4847,
+    "stargazers_count": 24102,
+    "forks_count": 4852,
     "topics": [],
     "archived": false,
     "fork": false,
     "created_at": "2024-10-31T06:11:15Z",
-    "pushed_at": "2026-10-31T09:16:04Z",
+    "pushed_at": "2026-11-02T10:59:42Z",
     "license": "Apache-2.0"
   },
   {
@@ -110,8 +110,8 @@
     "html_url": "https://github.com/eternity4719/HowToLiveBetter",
     "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
     "language": "HTML",
-    "stargazers_count": 72100,
-    "forks_count": 6293,
+    "stargazers_count": 72600,
+    "forks_count": 6367,
     "topics": [],
     "archived": false,
     "fork": false,
@@ -124,8 +124,8 @@
     "html_url": "https://github.com/PC2005-cloud/dsh-pet",
     "description": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
     "language": "TypeScript",
-    "stargazers_count": 5169,
-    "forks_count": 411,
+    "stargazers_count": 5297,
+    "forks_count": 424,
     "topics": [
       "deepseek-harness",
       "desktop-pet",
@@ -135,7 +135,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2026-08-14T00:38:45Z",
-    "pushed_at": "2026-11-01T07:28:02Z",
+    "pushed_at": "2026-11-02T10:48:02Z",
     "license": "MIT"
   },
   {
@@ -143,7 +143,7 @@
     "html_url": "https://github.com/vladelaina/BongoCat",
     "description": "🩷 💘C × SDL3 × OpenGL — Three Mysterious Forces, United as One! Bong~ Bongocat!!!Don't be shy, Join Here🧸: https://discord.gg/vf8jqnattk",
     "language": "C",
-    "stargazers_count": 3964,
+    "stargazers_count": 3978,
     "forks_count": 105,
     "topics": [
       "bongo-cat",
@@ -164,7 +164,7 @@
     "html_url": "https://github.com/cwuom/NeriPlayer",
     "description": "A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵",
     "language": "Kotlin",
-    "stargazers_count": 4029,
+    "stargazers_count": 4048,
     "forks_count": 158,
     "topics": [
       "android",
@@ -188,7 +188,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2025-08-08T15:57:42Z",
-    "pushed_at": "2026-10-31T13:00:31Z",
+    "pushed_at": "2026-11-01T11:32:54Z",
     "license": "GPL-3.0"
   },
   {
@@ -196,8 +196,8 @@
     "html_url": "https://github.com/Kami958/WhoShitsonMyC",
     "description": "磁盘空间变化对比轻量小工具；A lightweight disk space change comparison tool. ",
     "language": "Python",
-    "stargazers_count": 722,
-    "forks_count": 37,
+    "stargazers_count": 734,
+    "forks_count": 38,
     "topics": [],
     "archived": false,
     "fork": false,
@@ -210,8 +210,8 @@
     "html_url": "https://github.com/zhu1090093659/dsh-web",
     "description": "DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
     "language": "TypeScript",
-    "stargazers_count": 9901,
-    "forks_count": 608,
+    "stargazers_count": 9946,
+    "forks_count": 611,
     "topics": [
       "cordis",
       "deepseek-harness",
@@ -223,7 +223,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2026-08-12T05:15:20Z",
-    "pushed_at": "2026-11-01T09:35:40Z",
+    "pushed_at": "2026-11-02T09:52:07Z",
     "license": "Apache-2.0"
   },
   {
@@ -232,7 +232,7 @@
     "description": "Awesome DeepSeek Harness (DSH) Plugin",
     "language": "HTML",
     "stargazers_count": 186,
-    "forks_count": 141,
+    "forks_count": 143,
     "topics": [
       "awesome",
       "awesome-list",
@@ -243,7 +243,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2026-08-14T09:35:25Z",
-    "pushed_at": "2026-11-01T06:00:20Z",
+    "pushed_at": "2026-11-02T05:59:42Z",
     "license": "CC0-1.0"
   },
   {
@@ -251,7 +251,7 @@
     "html_url": "https://github.com/libukai/awesome-deepseek-harness",
     "description": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
     "language": null,
-    "stargazers_count": 342,
+    "stargazers_count": 346,
     "forks_count": 86,
     "topics": [
       "agent",
@@ -275,8 +275,8 @@
     "html_url": "https://github.com/anywhere-labs/dsh-desktop",
     "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
     "language": "TypeScript",
-    "stargazers_count": 34352,
-    "forks_count": 1554,
+    "stargazers_count": 34497,
+    "forks_count": 1559,
     "topics": [
       "cordis",
       "cordis-plugin",
@@ -290,7 +290,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2026-08-13T16:30:50Z",
-    "pushed_at": "2026-10-31T18:25:36Z",
+    "pushed_at": "2026-11-02T10:57:21Z",
     "license": "MIT"
   },
   {
@@ -298,7 +298,7 @@
     "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
     "description": "A reliable coding agent for complex software engineering tasks.",
     "language": "Go",
-    "stargazers_count": 36021,
+    "stargazers_count": 36043,
     "forks_count": 2500,
     "topics": [
       "agent",
@@ -323,7 +323,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2026-04-21T08:27:02Z",
-    "pushed_at": "2026-11-01T06:55:02Z",
+    "pushed_at": "2026-11-02T10:06:24Z",
     "license": "MIT"
   },
   {
@@ -331,13 +331,13 @@
     "html_url": "https://github.com/QwenLM/Qwen-MM-Plugins",
     "description": "Make any agent harness multimodal-native.",
     "language": "Python",
-    "stargazers_count": 3164,
+    "stargazers_count": 3173,
     "forks_count": 219,
     "topics": [],
     "archived": false,
     "fork": false,
     "created_at": "2026-07-29T09:14:34Z",
-    "pushed_at": "2026-10-28T04:15:35Z",
+    "pushed_at": "2026-11-01T18:56:57Z",
     "license": "Apache-2.0"
   },
   {
@@ -367,8 +367,8 @@
     "html_url": "https://github.com/microsoft/playwright-mcp",
     "description": "Playwright MCP server",
     "language": "TypeScript",
-    "stargazers_count": 38926,
-    "forks_count": 3359,
+    "stargazers_count": 38973,
+    "forks_count": 3362,
     "topics": [
       "mcp",
       "playwright"
@@ -376,7 +376,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2025-03-21T17:48:36Z",
-    "pushed_at": "2026-10-31T15:20:06Z",
+    "pushed_at": "2026-11-01T23:12:55Z",
     "license": "Apache-2.0"
   },
   {
@@ -384,7 +384,7 @@
     "html_url": "https://github.com/aakk007/RogueCleaner",
     "description": "流氓软件克星：扫描和清理 Windows 流氓右键菜单、自启动、计划任务、服务、浏览器插件和文件关联残留",
     "language": "C#",
-    "stargazers_count": 1226,
+    "stargazers_count": 1231,
     "forks_count": 71,
     "topics": [],
     "archived": false,
@@ -398,13 +398,13 @@
     "html_url": "https://github.com/emilkowalski/skills",
     "description": "Skills for Designers and Engineers.",
     "language": "Markdown",
-    "stargazers_count": 52570,
-    "forks_count": 3067,
+    "stargazers_count": 52865,
+    "forks_count": 3079,
     "topics": [],
     "archived": false,
     "fork": false,
     "created_at": "2026-03-16T13:52:31Z",
-    "pushed_at": "2026-10-28T18:25:52Z",
+    "pushed_at": "2026-11-02T09:21:52Z",
     "license": "MIT"
   },
   {
@@ -412,8 +412,8 @@
     "html_url": "https://github.com/ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
     "language": null,
-    "stargazers_count": 107333,
-    "forks_count": 4560,
+    "stargazers_count": 107412,
+    "forks_count": 4566,
     "topics": [],
     "archived": false,
     "fork": false,
@@ -440,8 +440,8 @@
     "html_url": "https://github.com/AlkaidLab/foundation-sunshine",
     "description": "Sunshine fork: an enhanced sunshine, a self-hosted game streaming host for Moonlight with HDR10/HDR Vivid, virtual displays, advanced audio, optimized encoders, and a modern control panel.",
     "language": "C++",
-    "stargazers_count": 7617,
-    "forks_count": 218,
+    "stargazers_count": 7678,
+    "forks_count": 222,
     "topics": [
       "amf",
       "cloudgaming",
@@ -464,7 +464,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2023-02-06T03:27:06Z",
-    "pushed_at": "2026-10-31T12:37:22Z",
+    "pushed_at": "2026-11-02T10:53:36Z",
     "license": "GPL-3.0"
   },
   {
@@ -472,8 +472,8 @@
     "html_url": "https://github.com/deretame/Breeze",
     "description": "使用flutter构建的漫画阅读器，通过插件提供漫画支持。",
     "language": "Dart",
-    "stargazers_count": 2999,
-    "forks_count": 85,
+    "stargazers_count": 3001,
+    "forks_count": 87,
     "topics": [
       "android",
       "flutter-apps",
@@ -493,7 +493,7 @@
     "html_url": "https://github.com/openRin/Rin",
     "description": "🌸Publish faster with an edge-native blog powered by Cloudflare Workers, D1, and R2",
     "language": "TypeScript",
-    "stargazers_count": 3127,
+    "stargazers_count": 3128,
     "forks_count": 2559,
     "topics": [
       "blog",
@@ -508,7 +508,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2024-05-21T14:14:13Z",
-    "pushed_at": "2026-08-31T03:42:12Z",
+    "pushed_at": "2026-11-02T07:32:37Z",
     "license": "MIT"
   },
   {
@@ -516,8 +516,8 @@
     "html_url": "https://github.com/motiondivision/motion",
     "description": "A modern animation library for React and JavaScript",
     "language": "TypeScript",
-    "stargazers_count": 34750,
-    "forks_count": 1490,
+    "stargazers_count": 34798,
+    "forks_count": 1496,
     "topics": [
       "animation",
       "animation-js",
@@ -529,7 +529,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2018-11-16T09:48:38Z",
-    "pushed_at": "2026-11-01T09:52:03Z",
+    "pushed_at": "2026-11-02T08:53:49Z",
     "license": "MIT"
   },
   {
@@ -537,13 +537,13 @@
     "html_url": "https://github.com/awesome-opencode/awesome-opencode",
     "description": "A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai",
     "language": "JavaScript",
-    "stargazers_count": 10817,
-    "forks_count": 1107,
+    "stargazers_count": 10833,
+    "forks_count": 1109,
     "topics": [],
     "archived": false,
     "fork": false,
     "created_at": "2025-09-22T00:01:14Z",
-    "pushed_at": "2026-07-03T14:10:38Z",
+    "pushed_at": "2026-11-01T18:59:25Z",
     "license": "CC0-1.0"
   },
   {
@@ -551,13 +551,13 @@
     "html_url": "https://github.com/anomalyco/opencode",
     "description": "The open source coding agent.",
     "language": "TypeScript",
-    "stargazers_count": 223699,
-    "forks_count": 30065,
+    "stargazers_count": 223977,
+    "forks_count": 30115,
     "topics": [],
     "archived": false,
     "fork": false,
     "created_at": "2025-04-30T20:08:00Z",
-    "pushed_at": "2026-11-01T07:17:21Z",
+    "pushed_at": "2026-11-02T10:45:46Z",
     "license": "MIT"
   },
   {
@@ -579,8 +579,8 @@
     "html_url": "https://github.com/zly2006/zhihu-plus-plus",
     "description": "Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验",
     "language": "Kotlin",
-    "stargazers_count": 4392,
-    "forks_count": 223,
+    "stargazers_count": 4401,
+    "forks_count": 224,
     "topics": [
       "android",
       "zhihu",
@@ -589,7 +589,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2024-09-30T23:44:47Z",
-    "pushed_at": "2026-10-28T01:36:08Z",
+    "pushed_at": "2026-11-02T10:58:44Z",
     "license": "AGPL-3.0"
   },
   {
@@ -597,8 +597,8 @@
     "html_url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
     "language": "Shell",
-    "stargazers_count": 310300,
-    "forks_count": 27612,
+    "stargazers_count": 310914,
+    "forks_count": 27671,
     "topics": [
       "ai",
       "brainstorming",
@@ -620,7 +620,7 @@
     "html_url": "https://github.com/niedev/RTranslator",
     "description": "Open source real-time translation app for Android that runs locally",
     "language": "Java",
-    "stargazers_count": 10599,
+    "stargazers_count": 10603,
     "forks_count": 960,
     "topics": [
       "android",
@@ -679,13 +679,13 @@
     "html_url": "https://github.com/colbymchenry/codegraph",
     "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
     "language": "TypeScript",
-    "stargazers_count": 76110,
-    "forks_count": 5048,
+    "stargazers_count": 76210,
+    "forks_count": 5063,
     "topics": [],
     "archived": false,
     "fork": false,
     "created_at": "2026-01-18T21:45:37Z",
-    "pushed_at": "2026-11-01T09:39:34Z",
+    "pushed_at": "2026-11-01T17:36:07Z",
     "license": "MIT"
   },
   {
@@ -693,8 +693,8 @@
     "html_url": "https://github.com/hardikpandya/stop-slop",
     "description": "A skill file for removing AI tells from prose",
     "language": null,
-    "stargazers_count": 18512,
-    "forks_count": 1361,
+    "stargazers_count": 18543,
+    "forks_count": 1364,
     "topics": [],
     "archived": false,
     "fork": false,
@@ -707,8 +707,8 @@
     "html_url": "https://github.com/Leonxlnx/taste-skill",
     "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
     "language": "JavaScript",
-    "stargazers_count": 107348,
-    "forks_count": 7256,
+    "stargazers_count": 108235,
+    "forks_count": 7298,
     "topics": [
       "agent-skills",
       "ai-agents",
@@ -733,7 +733,7 @@
     "html_url": "https://github.com/drfccv/mcp-server-12306",
     "description": "12306 MCP Server​​ 是一个基于 ​​Model Context Protocol (MCP)​​ 的高性能火车票查询后端系统。它通过标准化接口提供官方 12306 的实时数据服务，包括余票查询、车站信息、列车经停站、中转换乘方案等核心功能。",
     "language": "Python",
-    "stargazers_count": 416,
+    "stargazers_count": 417,
     "forks_count": 59,
     "topics": [
       "12306",
@@ -789,8 +789,8 @@
     "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
     "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
     "language": "Python",
-    "stargazers_count": 137031,
-    "forks_count": 21853,
+    "stargazers_count": 137291,
+    "forks_count": 21919,
     "topics": [
       "ai-video-generator",
       "content-creation",
@@ -810,7 +810,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2024-03-11T02:57:34Z",
-    "pushed_at": "2026-10-31T23:56:16Z",
+    "pushed_at": "2026-11-02T09:22:43Z",
     "license": "MIT"
   },
   {
@@ -818,7 +818,7 @@
     "html_url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
     "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D avatar running locally across platforms",
     "language": "Python",
-    "stargazers_count": 14501,
+    "stargazers_count": 14524,
     "forks_count": 1746,
     "topics": [
       "ai",
@@ -843,7 +843,7 @@
     "html_url": "https://github.com/zyf2007/ChatAPI",
     "description": "把你自己装进 OpenAI responses API 里面，扮演 Assistant 和用户聊天（",
     "language": "Go",
-    "stargazers_count": 392,
+    "stargazers_count": 395,
     "forks_count": 37,
     "topics": [],
     "archived": false,
@@ -857,13 +857,13 @@
     "html_url": "https://github.com/mattpocock/skills",
     "description": "Skills for Real Engineers. Straight from my .agents directory.",
     "language": "Shell",
-    "stargazers_count": 308803,
-    "forks_count": 25994,
+    "stargazers_count": 309631,
+    "forks_count": 26055,
     "topics": [],
     "archived": false,
     "fork": false,
     "created_at": "2026-02-03T11:15:53Z",
-    "pushed_at": "2026-10-31T14:23:44Z",
+    "pushed_at": "2026-11-01T11:42:33Z",
     "license": "MIT"
   },
   {
@@ -871,7 +871,7 @@
     "html_url": "https://github.com/AccumulateMore/CV",
     "description": "✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】",
     "language": "Jupyter Notebook",
-    "stargazers_count": 24178,
+    "stargazers_count": 24187,
     "forks_count": 2666,
     "topics": [
       "agent",
@@ -902,8 +902,8 @@
     "html_url": "https://github.com/ahujasid/mcp-for-blender",
     "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
     "language": "Python",
-    "stargazers_count": 32958,
-    "forks_count": 2984,
+    "stargazers_count": 33048,
+    "forks_count": 2992,
     "topics": [
       "3d-modeling",
       "ai",
@@ -928,7 +928,7 @@
     "html_url": "https://github.com/ayangweb/Awesome-BongoCat",
     "description": "🚀 汇聚优质的第三方 BongoCat 模型！",
     "language": null,
-    "stargazers_count": 2181,
+    "stargazers_count": 2182,
     "forks_count": 262,
     "topics": [
       "awesome-bongo-cat",
@@ -947,8 +947,8 @@
     "html_url": "https://github.com/Ruben2776/PicView",
     "description": "Fast, free and customizable picture viewer",
     "language": "C#",
-    "stargazers_count": 3717,
-    "forks_count": 204,
+    "stargazers_count": 3721,
+    "forks_count": 205,
     "topics": [
       "avalonia",
       "batch-processing",
@@ -971,7 +971,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2017-01-23T08:52:18Z",
-    "pushed_at": "2026-11-01T00:00:44Z",
+    "pushed_at": "2026-11-01T16:44:44Z",
     "license": "NOASSERTION"
   },
   {
@@ -979,8 +979,8 @@
     "html_url": "https://github.com/codewhale-hq/Codewhale",
     "description": "Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome",
     "language": "Rust",
-    "stargazers_count": 41163,
-    "forks_count": 3568,
+    "stargazers_count": 41168,
+    "forks_count": 3569,
     "topics": [
       "agent-orchestration",
       "ai-agent",
@@ -1000,7 +1000,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2026-01-19T18:21:01Z",
-    "pushed_at": "2026-11-01T10:26:36Z",
+    "pushed_at": "2026-11-02T10:49:11Z",
     "license": "MIT"
   },
   {
@@ -1008,8 +1008,8 @@
     "html_url": "https://github.com/Flow-Launcher/Flow.Launcher",
     "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
     "language": "C#",
-    "stargazers_count": 15937,
-    "forks_count": 670,
+    "stargazers_count": 15944,
+    "forks_count": 671,
     "topics": [
       "alfred",
       "application-launcher",
@@ -1034,7 +1034,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2020-04-21T08:12:15Z",
-    "pushed_at": "2026-11-01T09:33:16Z",
+    "pushed_at": "2026-11-01T21:35:38Z",
     "license": "MIT"
   },
   {
@@ -1042,8 +1042,8 @@
     "html_url": "https://github.com/linshenkx/prompt-optimizer",
     "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
     "language": "TypeScript",
-    "stargazers_count": 40177,
-    "forks_count": 4551,
+    "stargazers_count": 40342,
+    "forks_count": 4564,
     "topics": [
       "ai-prompts",
       "ai-tools",
@@ -1059,7 +1059,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2025-02-12T06:06:49Z",
-    "pushed_at": "2026-11-01T10:24:40Z",
+    "pushed_at": "2026-11-02T05:40:49Z",
     "license": "NOASSERTION"
   },
   {
@@ -1067,8 +1067,8 @@
     "html_url": "https://github.com/nexu-io/open-design",
     "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
     "language": "TypeScript",
-    "stargazers_count": 105250,
-    "forks_count": 11997,
+    "stargazers_count": 105446,
+    "forks_count": 12023,
     "topics": [
       "agent-skills",
       "ai-design",
@@ -1094,7 +1094,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2026-04-28T04:25:20Z",
-    "pushed_at": "2026-11-01T01:09:11Z",
+    "pushed_at": "2026-11-02T05:06:45Z",
     "license": "Apache-2.0"
   },
   {
@@ -1102,8 +1102,8 @@
     "html_url": "https://github.com/AAswordman/Operit",
     "description": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent",
     "language": "Kotlin",
-    "stargazers_count": 9152,
-    "forks_count": 776,
+    "stargazers_count": 9182,
+    "forks_count": 782,
     "topics": [
       "agent",
       "ai",
@@ -1126,7 +1126,7 @@
     "html_url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
     "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
     "language": "Python",
-    "stargazers_count": 2330,
+    "stargazers_count": 2332,
     "forks_count": 119,
     "topics": [],
     "archived": false,
@@ -1140,8 +1140,8 @@
     "html_url": "https://github.com/code-yeongyu/oh-my-openagent",
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "language": "TypeScript",
-    "stargazers_count": 70567,
-    "forks_count": 5824,
+    "stargazers_count": 70602,
+    "forks_count": 5828,
     "topics": [
       "ai",
       "ai-agents",
@@ -1162,7 +1162,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2025-12-03T01:40:05Z",
-    "pushed_at": "2026-11-01T10:27:02Z",
+    "pushed_at": "2026-11-02T11:00:20Z",
     "license": "NOASSERTION"
   },
   {
@@ -1170,7 +1170,7 @@
     "html_url": "https://github.com/royal12646/Chinese-offensive-language-detect",
     "description": "本项目旨在通过数据生成技术、模型微调技术、加权投票技术来检测以下6种有害文本：涉黄有害文本、辱骂/谐音辱骂有害文本、地域、性别、种族、职业攻击有害文本",
     "language": "Python",
-    "stargazers_count": 878,
+    "stargazers_count": 880,
     "forks_count": 59,
     "topics": [],
     "archived": false,
@@ -1198,8 +1198,8 @@
     "html_url": "https://github.com/AstrBotDevs/AstrBot",
     "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
     "language": "Python",
-    "stargazers_count": 45431,
-    "forks_count": 3329,
+    "stargazers_count": 45601,
+    "forks_count": 3345,
     "topics": [
       "agent",
       "ai",
@@ -1222,7 +1222,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2022-12-08T13:27:46Z",
-    "pushed_at": "2026-11-01T05:15:35Z",
+    "pushed_at": "2026-11-02T11:04:03Z",
     "license": "AGPL-3.0"
   },
   {
@@ -1261,7 +1261,7 @@
     "html_url": "https://github.com/RuliaReader/Rulia",
     "description": "Back to reading - Rulia is a modernized manga reader for Windows.",
     "language": "C#",
-    "stargazers_count": 377,
+    "stargazers_count": 379,
     "forks_count": 9,
     "topics": [
       "comic-reader",
@@ -1286,7 +1286,7 @@
     "html_url": "https://github.com/powerfullz/override-rules",
     "description": "powerfullz 的 Mihomo/SubStore 脚本和覆写规则。",
     "language": "TypeScript",
-    "stargazers_count": 620,
+    "stargazers_count": 625,
     "forks_count": 135,
     "topics": [],
     "archived": false,
@@ -1300,8 +1300,8 @@
     "html_url": "https://github.com/thedjchi/Shizuku",
     "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
     "language": "Kotlin",
-    "stargazers_count": 6651,
-    "forks_count": 215,
+    "stargazers_count": 6673,
+    "forks_count": 213,
     "topics": [],
     "archived": false,
     "fork": true,
@@ -1314,8 +1314,8 @@
     "html_url": "https://github.com/Lin-arm/GKD_subscription",
     "description": "用于安卓 GKD 的第三方订阅规则 (👻Fork版)",
     "language": "TypeScript",
-    "stargazers_count": 6528,
-    "forks_count": 210,
+    "stargazers_count": 6569,
+    "forks_count": 211,
     "topics": [
       "ad",
       "gkd",
@@ -1333,7 +1333,7 @@
     "html_url": "https://github.com/SaekiRaku/vscode-rainbow-fart",
     "description": "一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.",
     "language": "JavaScript",
-    "stargazers_count": 4930,
+    "stargazers_count": 4929,
     "forks_count": 238,
     "topics": [
       "rainbow-fart",
@@ -1351,8 +1351,8 @@
     "html_url": "https://github.com/ayangweb/BongoCat",
     "description": "🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!",
     "language": "Rust",
-    "stargazers_count": 24424,
-    "forks_count": 1226,
+    "stargazers_count": 24437,
+    "forks_count": 1229,
     "topics": [
       "bongo-cat",
       "bongocat",
@@ -1379,7 +1379,7 @@
     "html_url": "https://github.com/runcat-dev/RunCat365",
     "description": "A cute running cat animation on your windows taskbar.",
     "language": "C#",
-    "stargazers_count": 10341,
+    "stargazers_count": 10343,
     "forks_count": 849,
     "topics": [],
     "archived": false,
@@ -1394,7 +1394,7 @@
     "description": "🐳 Meting API 的容器化",
     "language": "JavaScript",
     "stargazers_count": 165,
-    "forks_count": 475,
+    "forks_count": 474,
     "topics": [
       "api",
       "docker",
@@ -1411,8 +1411,8 @@
     "html_url": "https://github.com/zyddnys/manga-image-translator",
     "description": "Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)",
     "language": "Python",
-    "stargazers_count": 10562,
-    "forks_count": 1082,
+    "stargazers_count": 10565,
+    "forks_count": 1083,
     "topics": [
       "anime",
       "auto-translation",
@@ -1441,7 +1441,7 @@
     "html_url": "https://github.com/palmcivet/awesome-arknights-endfield",
     "description": "A curated list of awesome things related to Arknights: Endfield. | 一个有关《明日方舟：终末地》的 Awesome List。",
     "language": "TypeScript",
-    "stargazers_count": 112,
+    "stargazers_count": 111,
     "forks_count": 5,
     "topics": [
       "arknights",
@@ -1491,7 +1491,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2024-06-01T14:43:41Z",
-    "pushed_at": "2026-10-30T06:19:56Z",
+    "pushed_at": "2026-11-02T09:29:07Z",
     "license": "AGPL-3.0"
   },
   {
@@ -1529,8 +1529,8 @@
     "html_url": "https://github.com/YumeYucca/YumeBox",
     "description": "これはとあるア-ティフアクトを巡る、ひとつの誓いの物語",
     "language": "C#",
-    "stargazers_count": 1030,
-    "forks_count": 52,
+    "stargazers_count": 1031,
+    "forks_count": 53,
     "topics": [
       "9-nine-arteisia",
       "9-nine-project",
@@ -1541,7 +1541,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2025-08-03T02:38:45Z",
-    "pushed_at": "2026-11-01T09:36:02Z",
+    "pushed_at": "2026-11-01T12:49:12Z",
     "license": "AGPL-3.0"
   },
   {
@@ -1549,7 +1549,7 @@
     "html_url": "https://github.com/Anionex/banana-slides",
     "description": "一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana/gpt-image🏞️",
     "language": "TypeScript",
-    "stargazers_count": 15929,
+    "stargazers_count": 15933,
     "forks_count": 1791,
     "topics": [
       "ai-ppt-maker",
@@ -1574,8 +1574,8 @@
     "html_url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
     "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
     "language": "Go Template",
-    "stargazers_count": 9768,
-    "forks_count": 334,
+    "stargazers_count": 9776,
+    "forks_count": 336,
     "topics": [
       "awesome",
       "awesome-list",
@@ -1584,7 +1584,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2022-09-13T18:32:02Z",
-    "pushed_at": "2026-11-01T09:46:01Z",
+    "pushed_at": "2026-11-01T15:07:08Z",
     "license": "CC0-1.0"
   },
   {
@@ -1592,8 +1592,8 @@
     "html_url": "https://github.com/the1812/Bilibili-Evolved",
     "description": "强大的哔哩哔哩增强脚本",
     "language": "TypeScript",
-    "stargazers_count": 30966,
-    "forks_count": 1821,
+    "stargazers_count": 30980,
+    "forks_count": 1823,
     "topics": [
       "bilibili",
       "tampermonkey",
@@ -1610,7 +1610,7 @@
     "html_url": "https://github.com/donlon/cloudflare-error-page",
     "description": "✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial)",
     "language": "HTML",
-    "stargazers_count": 5793,
+    "stargazers_count": 5792,
     "forks_count": 287,
     "topics": [],
     "archived": false,
@@ -1638,7 +1638,7 @@
     "html_url": "https://github.com/VermiIIi0n/fuckZHS",
     "description": "自动刷智慧树课程的脚本",
     "language": "Python",
-    "stargazers_count": 2566,
+    "stargazers_count": 2578,
     "forks_count": 220,
     "topics": [
       "automation",
@@ -1655,8 +1655,8 @@
     "html_url": "https://github.com/TapXWorld/ChinaTextbook",
     "description": "所有小初高、大学PDF教材。",
     "language": null,
-    "stargazers_count": 83901,
-    "forks_count": 19106,
+    "stargazers_count": 83958,
+    "forks_count": 19118,
     "topics": [],
     "archived": false,
     "fork": false,
@@ -1683,8 +1683,8 @@
     "html_url": "https://github.com/Duster-Cule/UnipusHelperPro",
     "description": "U校园AI版自动答题工具（新视野大学英语）",
     "language": "Java",
-    "stargazers_count": 252,
-    "forks_count": 17,
+    "stargazers_count": 253,
+    "forks_count": 18,
     "topics": [],
     "archived": true,
     "fork": false,
@@ -1715,7 +1715,7 @@
     "html_url": "https://github.com/dmzz-yyhyy/LightNovelReader",
     "description": "一款基于Compose的多数据源轻小说阅读器。支持epub导出，自定义背景样式，本地书架和更新提醒等功能。",
     "language": "Kotlin",
-    "stargazers_count": 2310,
+    "stargazers_count": 2312,
     "forks_count": 77,
     "topics": [
       "andriod-development",
@@ -1746,7 +1746,7 @@
     "html_url": "https://github.com/hooke007/mpv_PlayKit",
     "description": "🔄 mpv player 播放器折腾记录 Windows conf | 中文注释配置 汉化文档 快速帮助入门 | mpv-lazy 懒人包 Win11 x64 config | 着色器 shader 滤镜 filter 整合方案",
     "language": "GLSL",
-    "stargazers_count": 7769,
+    "stargazers_count": 7771,
     "forks_count": 236,
     "topics": [
       "mpv",
@@ -1767,8 +1767,8 @@
     "html_url": "https://github.com/rustdesk/rustdesk",
     "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
     "language": "Rust",
-    "stargazers_count": 127760,
-    "forks_count": 20220,
+    "stargazers_count": 127876,
+    "forks_count": 20241,
     "topics": [
       "android",
       "anydesk",
@@ -1793,7 +1793,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2020-09-28T15:36:08Z",
-    "pushed_at": "2026-11-01T05:50:27Z",
+    "pushed_at": "2026-11-02T10:10:37Z",
     "license": "AGPL-3.0"
   },
   {
@@ -1801,7 +1801,7 @@
     "html_url": "https://github.com/0voice/introduce_c-cpp_manual",
     "description": "一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。",
     "language": "C++",
-    "stargazers_count": 8337,
+    "stargazers_count": 8338,
     "forks_count": 931,
     "topics": [],
     "archived": false,
@@ -1815,7 +1815,7 @@
     "html_url": "https://github.com/Tsuk1ko/nhentai-helper",
     "description": "🔞 A user script make it easy for you to download nHentai manga as zip (or cbz), also support some mirror sites. 一个可以让你轻松打包下载 nHentai 本子的用户脚本，并支持一些镜像站",
     "language": "TypeScript",
-    "stargazers_count": 834,
+    "stargazers_count": 833,
     "forks_count": 50,
     "topics": [
       "cbz",
@@ -1832,7 +1832,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2018-12-26T15:41:00Z",
-    "pushed_at": "2026-10-31T09:37:52Z",
+    "pushed_at": "2026-11-01T16:09:12Z",
     "license": "GPL-3.0"
   },
   {
@@ -1859,8 +1859,8 @@
     "html_url": "https://github.com/vicinaehq/vicinae",
     "description": "A focused launcher for your desktop - native, fast, extensible",
     "language": "C++",
-    "stargazers_count": 10485,
-    "forks_count": 332,
+    "stargazers_count": 10488,
+    "forks_count": 333,
     "topics": [
       "app-launcher",
       "cpp23",
@@ -1877,7 +1877,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2025-07-28T03:49:03Z",
-    "pushed_at": "2026-10-31T18:33:30Z",
+    "pushed_at": "2026-11-02T02:21:02Z",
     "license": "GPL-3.0"
   },
   {
@@ -1885,13 +1885,13 @@
     "html_url": "https://github.com/Cute-Dress/Dress",
     "description": "好耶 是女装 | 备份·接受PR",
     "language": "Python",
-    "stargazers_count": 3098,
+    "stargazers_count": 3100,
     "forks_count": 438,
     "topics": [],
     "archived": false,
     "fork": false,
     "created_at": "2023-01-28T06:03:31Z",
-    "pushed_at": "2026-10-30T04:42:55Z",
+    "pushed_at": "2026-11-01T14:07:26Z",
     "license": "NOASSERTION"
   },
   {
@@ -1899,8 +1899,8 @@
     "html_url": "https://github.com/groupultra/telegram-search",
     "description": "🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history",
     "language": "TypeScript",
-    "stargazers_count": 4134,
-    "forks_count": 276,
+    "stargazers_count": 4135,
+    "forks_count": 277,
     "topics": [
       "ai",
       "ai-agent",
@@ -1920,8 +1920,8 @@
     "html_url": "https://github.com/microsoft/AI-For-Beginners",
     "description": "12 Weeks, 24 Lessons, AI for All!",
     "language": "Jupyter Notebook",
-    "stargazers_count": 70426,
-    "forks_count": 13696,
+    "stargazers_count": 70453,
+    "forks_count": 13712,
     "topics": [
       "ai",
       "artificial-intelligence",
@@ -1945,7 +1945,7 @@
     "html_url": "https://github.com/SchneeHertz/exhentai-manga-manager",
     "description": "ExHentai本地漫画标签管理阅读应用,  ExHentai local manga tag-manager and reader",
     "language": "Vue",
-    "stargazers_count": 1838,
+    "stargazers_count": 1839,
     "forks_count": 63,
     "topics": [
       "e-hentai",
@@ -1996,8 +1996,8 @@
     "html_url": "https://github.com/CyC2018/CS-Notes",
     "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
     "language": "JavaScript",
-    "stargazers_count": 186411,
-    "forks_count": 50665,
+    "stargazers_count": 186419,
+    "forks_count": 50663,
     "topics": [
       "algorithm",
       "computer-science",
@@ -2011,7 +2011,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2018-02-13T14:56:24Z",
-    "pushed_at": "2026-11-01T10:22:36Z",
+    "pushed_at": "2026-11-01T17:43:48Z",
     "license": null
   },
   {
@@ -2019,8 +2019,8 @@
     "html_url": "https://github.com/fork-maintainers/iceraven-browser",
     "description": "Iceraven Browser",
     "language": "Kotlin",
-    "stargazers_count": 6552,
-    "forks_count": 292,
+    "stargazers_count": 6556,
+    "forks_count": 294,
     "topics": [],
     "archived": false,
     "fork": true,
@@ -2033,7 +2033,7 @@
     "html_url": "https://github.com/Gar-b-age/CookLikeHOC",
     "description": "🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
     "language": "JavaScript",
-    "stargazers_count": 24851,
+    "stargazers_count": 24857,
     "forks_count": 2388,
     "topics": [],
     "archived": false,
@@ -2047,7 +2047,7 @@
     "html_url": "https://github.com/Violiate/bili_ticket_rush",
     "description": "自动抢票软件 CP31 哔哩哔哩 会员购 BW 漫展 脚本 抢票 |超级简单易用的哔哩哔哩会员购自动抢票工具，基于Rust开发的异步多线程高性能抢票软件。",
     "language": "Rust",
-    "stargazers_count": 998,
+    "stargazers_count": 999,
     "forks_count": 84,
     "topics": [
       "bilibili",
@@ -2068,8 +2068,8 @@
     "html_url": "https://github.com/heshengtao/super-agent-party",
     "description": "⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!",
     "language": "JavaScript",
-    "stargazers_count": 2771,
-    "forks_count": 295,
+    "stargazers_count": 2793,
+    "forks_count": 296,
     "topics": [
       "agent-skills",
       "ai-companion",
@@ -2100,8 +2100,8 @@
     "html_url": "https://github.com/xishang0128/sparkle",
     "description": ":electron: Another Mihomo GUI. (🛠building...)",
     "language": "TypeScript",
-    "stargazers_count": 8024,
-    "forks_count": 433,
+    "stargazers_count": 8035,
+    "forks_count": 432,
     "topics": [],
     "archived": false,
     "fork": true,
@@ -2114,8 +2114,8 @@
     "html_url": "https://github.com/moeru-ai/airi",
     "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
     "language": "TypeScript",
-    "stargazers_count": 50977,
-    "forks_count": 5136,
+    "stargazers_count": 51011,
+    "forks_count": 5138,
     "topics": [
       "ai-companion",
       "ai-vtuber",
@@ -2132,7 +2132,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2024-12-01T16:33:36Z",
-    "pushed_at": "2026-11-01T10:26:44Z",
+    "pushed_at": "2026-11-02T10:22:48Z",
     "license": "MIT"
   },
   {
@@ -2140,7 +2140,7 @@
     "html_url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "HTML",
-    "stargazers_count": 76514,
+    "stargazers_count": 76531,
     "forks_count": 8028,
     "topics": [],
     "archived": false,
@@ -2154,8 +2154,8 @@
     "html_url": "https://github.com/subframe7536/maple-font",
     "description": "Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项",
     "language": "Python",
-    "stargazers_count": 29601,
-    "forks_count": 1215,
+    "stargazers_count": 29615,
+    "forks_count": 1216,
     "topics": [
       "coding-font",
       "font",
@@ -2180,7 +2180,7 @@
     "html_url": "https://github.com/getsurfboard/surfboard",
     "description": "https://getsurfboard.com",
     "language": null,
-    "stargazers_count": 8712,
+    "stargazers_count": 8711,
     "forks_count": 264,
     "topics": [],
     "archived": false,
@@ -2194,7 +2194,7 @@
     "html_url": "https://github.com/EcoPasteHub/EcoPaste",
     "description": "🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool",
     "language": "Rust",
-    "stargazers_count": 7553,
+    "stargazers_count": 7554,
     "forks_count": 405,
     "topics": [
       "application",
@@ -2221,7 +2221,7 @@
     "html_url": "https://github.com/w4po/ExplorerTabUtility",
     "description": "🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more!",
     "language": "C#",
-    "stargazers_count": 3013,
+    "stargazers_count": 3018,
     "forks_count": 99,
     "topics": [],
     "archived": false,
@@ -2231,26 +2231,12 @@
     "license": "MIT"
   },
   {
-    "full_name": "ahaduoduoduo/bilibili-youtube-danmaku",
-    "html_url": "https://github.com/ahaduoduoduo/bilibili-youtube-danmaku",
-    "description": "自动将Bilibili的弹幕同步显示在YouTube视频上",
-    "language": "JavaScript",
-    "stargazers_count": 645,
-    "forks_count": 22,
-    "topics": [],
-    "archived": false,
-    "fork": false,
-    "created_at": "2025-08-03T11:28:07Z",
-    "pushed_at": "2026-05-15T16:49:49Z",
-    "license": "MIT"
-  },
-  {
     "full_name": "keleus/BewlyCat",
     "html_url": "https://github.com/keleus/BewlyCat",
     "description": "BewlyCat——基于BewlyBewly开发的Bilibili拓展",
-    "language": "Vue",
-    "stargazers_count": 4523,
-    "forks_count": 165,
+    "language": "TypeScript",
+    "stargazers_count": 4553,
+    "forks_count": 166,
     "topics": [
       "bewlybewly",
       "bili",
@@ -2259,7 +2245,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2025-02-25T12:36:28Z",
-    "pushed_at": "2026-10-29T11:15:28Z",
+    "pushed_at": "2026-11-02T03:04:41Z",
     "license": "NOASSERTION"
   },
   {
@@ -2267,8 +2253,8 @@
     "html_url": "https://github.com/seerge/g-helper",
     "description": "Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more.",
     "language": "C#",
-    "stargazers_count": 15835,
-    "forks_count": 661,
+    "stargazers_count": 15849,
+    "forks_count": 662,
     "topics": [
       "ally",
       "amd",
@@ -2294,7 +2280,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2023-02-10T23:11:28Z",
-    "pushed_at": "2026-11-01T10:25:34Z",
+    "pushed_at": "2026-11-02T08:27:30Z",
     "license": "GPL-3.0"
   },
   {
@@ -2302,7 +2288,7 @@
     "html_url": "https://github.com/Ac-Wiki/Ac-Wiki",
     "description": "高等教育学社基础知识开源建设工程｜青年大学习",
     "language": "HTML",
-    "stargazers_count": 1893,
+    "stargazers_count": 1894,
     "forks_count": 108,
     "topics": [
       "ac-wiki",
@@ -2322,8 +2308,8 @@
     "html_url": "https://github.com/syvixor/skills-icons",
     "description": "showcase skills in projects or profiles effortlessly.",
     "language": "TypeScript",
-    "stargazers_count": 279,
-    "forks_count": 40,
+    "stargazers_count": 280,
+    "forks_count": 41,
     "topics": [
       "github-profile",
       "github-readme",
@@ -2344,7 +2330,7 @@
     "html_url": "https://github.com/CollegesChat/university-information",
     "description": "收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节",
     "language": null,
-    "stargazers_count": 5106,
+    "stargazers_count": 5107,
     "forks_count": 825,
     "topics": [],
     "archived": false,
@@ -2358,7 +2344,7 @@
     "html_url": "https://github.com/Pixeval/Pixeval",
     "description": "Wow. Yet another Pixiv client!",
     "language": "C#",
-    "stargazers_count": 3190,
+    "stargazers_count": 3192,
     "forks_count": 208,
     "topics": [
       "avalonia",
@@ -2393,7 +2379,7 @@
     "html_url": "https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire",
     "description": "小米 BootLoader《解锁资格答题测试》更新记录",
     "language": null,
-    "stargazers_count": 4188,
+    "stargazers_count": 4187,
     "forks_count": 126,
     "topics": [
       "android",
@@ -2412,8 +2398,8 @@
     "html_url": "https://github.com/mihonapp/mihon",
     "description": "Free and open source manga reader for Android",
     "language": "Kotlin",
-    "stargazers_count": 24922,
-    "forks_count": 1721,
+    "stargazers_count": 24961,
+    "forks_count": 1729,
     "topics": [
       "android",
       "kotlin",
@@ -2436,8 +2422,8 @@
     "html_url": "https://github.com/M2Team/NanaZip",
     "description": "The 7-Zip derivative intended for the modern Windows experience",
     "language": "C++",
-    "stargazers_count": 16107,
-    "forks_count": 415,
+    "stargazers_count": 16120,
+    "forks_count": 416,
     "topics": [
       "cpp",
       "file-compression",
@@ -2459,7 +2445,7 @@
     "html_url": "https://github.com/yokoffing/Betterfox",
     "description": "Firefox user.js for optimal privacy and security. Your favorite browser, but better.",
     "language": "JavaScript",
-    "stargazers_count": 10962,
+    "stargazers_count": 10966,
     "forks_count": 257,
     "topics": [
       "anti-tracking",
@@ -2504,7 +2490,7 @@
     "html_url": "https://github.com/15dd/wenku8reader",
     "description": "第三方轻小说文库app",
     "language": "Kotlin",
-    "stargazers_count": 1699,
+    "stargazers_count": 1713,
     "forks_count": 26,
     "topics": [
       "android",
@@ -2544,8 +2530,8 @@
     "html_url": "https://github.com/bggRGjQaUbCoE/PiliPlus",
     "description": "PiliPlus",
     "language": "Dart",
-    "stargazers_count": 20104,
-    "forks_count": 1557,
+    "stargazers_count": 20167,
+    "forks_count": 1569,
     "topics": [
       "android",
       "flutter",
@@ -2557,7 +2543,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2024-08-22T02:24:56Z",
-    "pushed_at": "2026-11-01T07:33:43Z",
+    "pushed_at": "2026-11-02T09:59:26Z",
     "license": "GPL-3.0"
   },
   {
@@ -2565,7 +2551,7 @@
     "html_url": "https://github.com/stratumauth/app",
     "description": "📱 Two-Factor Authentication (2FA) client for Android + Wear OS",
     "language": "C#",
-    "stargazers_count": 4627,
+    "stargazers_count": 4631,
     "forks_count": 282,
     "topics": [
       "2fa",
@@ -2597,8 +2583,8 @@
     "html_url": "https://github.com/521xueweihan/HelloGitHub",
     "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
     "language": "Python",
-    "stargazers_count": 186085,
-    "forks_count": 13169,
+    "stargazers_count": 186300,
+    "forks_count": 13182,
     "topics": [
       "awesome",
       "github",
@@ -2616,7 +2602,7 @@
     "html_url": "https://github.com/datawhalechina/llm-cookbook",
     "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
     "language": "Jupyter Notebook",
-    "stargazers_count": 24857,
+    "stargazers_count": 24859,
     "forks_count": 2983,
     "topics": [
       "cookbook",
@@ -2633,8 +2619,8 @@
     "html_url": "https://github.com/GitHubDaily/GitHubDaily",
     "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
     "language": null,
-    "stargazers_count": 48338,
-    "forks_count": 4714,
+    "stargazers_count": 48350,
+    "forks_count": 4716,
     "topics": [
       "ai",
       "algorithms-and-data-structures",
@@ -2665,7 +2651,7 @@
     "description": "所见皆是Minecraft，让获取MC资源更加轻便！All of Minecraft, EASILY get Minecraft resources!",
     "language": "JavaScript",
     "stargazers_count": 1206,
-    "forks_count": 145,
+    "forks_count": 146,
     "topics": [
       "easy",
       "minecraft",
@@ -2675,7 +2661,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2024-03-30T16:59:59Z",
-    "pushed_at": "2026-10-24T13:03:34Z",
+    "pushed_at": "2026-11-02T01:49:56Z",
     "license": "GPL-3.0"
   },
   {
@@ -2703,8 +2689,8 @@
     "html_url": "https://github.com/std-microblock/breeze-shell",
     "description": "An alternative Windows context menu, and more.",
     "language": "C++",
-    "stargazers_count": 3346,
-    "forks_count": 63,
+    "stargazers_count": 3347,
+    "forks_count": 64,
     "topics": [
       "context-menu",
       "explorer",
@@ -2738,7 +2724,7 @@
     "html_url": "https://github.com/SakuraLLM/SakuraLLM",
     "description": "适配轻小说/Galgame的日中翻译大模型",
     "language": "Python",
-    "stargazers_count": 4841,
+    "stargazers_count": 4842,
     "forks_count": 120,
     "topics": [],
     "archived": false,
@@ -2752,8 +2738,8 @@
     "html_url": "https://github.com/PCL-Community/PCL-CE",
     "description": "PCL 社区版 由社区开发者维护与管理",
     "language": "C#",
-    "stargazers_count": 5030,
-    "forks_count": 467,
+    "stargazers_count": 5044,
+    "forks_count": 469,
     "topics": [
       "community-edition",
       "csharp",
@@ -2772,7 +2758,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2024-04-14T07:18:54Z",
-    "pushed_at": "2026-11-01T07:16:52Z",
+    "pushed_at": "2026-11-01T14:08:16Z",
     "license": "Apache-2.0"
   },
   {
@@ -2780,8 +2766,8 @@
     "html_url": "https://github.com/MewX/light-novel-library_Wenku8_Android",
     "description": "[CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。",
     "language": "Java",
-    "stargazers_count": 3258,
-    "forks_count": 372,
+    "stargazers_count": 3323,
+    "forks_count": 398,
     "topics": [
       "2014-now",
       "android",
@@ -2810,8 +2796,8 @@
     "html_url": "https://github.com/freeok/so-novel",
     "description": "小说下载｜网文下载 | 网络小说",
     "language": "Java",
-    "stargazers_count": 8865,
-    "forks_count": 750,
+    "stargazers_count": 8891,
+    "forks_count": 752,
     "topics": [
       "cli",
       "content-export",
@@ -2846,7 +2832,7 @@
     "html_url": "https://github.com/be5invis/Sarasa-Gothic",
     "description": "Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕",
     "language": "JavaScript",
-    "stargazers_count": 12955,
+    "stargazers_count": 12957,
     "forks_count": 403,
     "topics": [
       "font",
@@ -2875,7 +2861,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2023-02-20T14:02:45Z",
-    "pushed_at": "2026-11-01T10:01:54Z",
+    "pushed_at": "2026-11-01T12:04:47Z",
     "license": "MIT"
   },
   {
@@ -2883,7 +2869,7 @@
     "html_url": "https://github.com/TG-Twilight/AWAvenue-Ads-Rule",
     "description": "众多优秀广告规则的上游、开源社区中最棒的广告过滤器之一。适配AdGuard/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等主流广告拦截工具/代理工具。",
     "language": "Adblock Filter List",
-    "stargazers_count": 6735,
+    "stargazers_count": 6740,
     "forks_count": 175,
     "topics": [
       "adblock",
@@ -2926,15 +2912,15 @@
     "archived": false,
     "fork": false,
     "created_at": "2023-05-14T16:16:50Z",
-    "pushed_at": "2026-11-01T09:01:17Z",
+    "pushed_at": "2026-11-01T22:23:47Z",
     "license": "MIT"
   },
   {
     "full_name": "WXRIW/Lyricify-App",
     "html_url": "https://github.com/WXRIW/Lyricify-App",
-    "description": "Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。",
+    "description": "Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify, Apple Music and other apps. 一款为 Spotify、Apple Music 等各种应用提供滚动歌词的软件。",
     "language": null,
-    "stargazers_count": 7361,
+    "stargazers_count": 7365,
     "forks_count": 128,
     "topics": [
       "all-platforms",
@@ -2979,8 +2965,8 @@
     "html_url": "https://github.com/217heidai/adblockfilters",
     "description": "去广告合并规则，每8个小时更新一次。",
     "language": "Python",
-    "stargazers_count": 7745,
-    "forks_count": 430,
+    "stargazers_count": 7753,
+    "forks_count": 432,
     "topics": [
       "adblock",
       "adguard",
@@ -3005,7 +2991,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2022-05-19T06:58:44Z",
-    "pushed_at": "2026-11-01T05:25:41Z",
+    "pushed_at": "2026-11-02T05:24:05Z",
     "license": "GPL-3.0"
   },
   {
@@ -3013,8 +2999,8 @@
     "html_url": "https://github.com/iDvel/rime-ice",
     "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
     "language": "Lua",
-    "stargazers_count": 19984,
-    "forks_count": 1203,
+    "stargazers_count": 20000,
+    "forks_count": 1204,
     "topics": [
       "rime",
       "rime-config",
@@ -3034,8 +3020,8 @@
     "html_url": "https://github.com/wushuo894/ani-rss",
     "description": "基于RSS自动追番、订阅、下载、刮削、洗版",
     "language": "Java",
-    "stargazers_count": 3584,
-    "forks_count": 206,
+    "stargazers_count": 3585,
+    "forks_count": 205,
     "topics": [
       "ani-rss",
       "anime",
@@ -3059,7 +3045,7 @@
     "html_url": "https://github.com/lxgw/LxgwWenKai",
     "description": "An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  ",
     "language": "Shell",
-    "stargazers_count": 26720,
+    "stargazers_count": 26739,
     "forks_count": 654,
     "topics": [
       "cjk",
@@ -3069,7 +3055,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2021-01-30T15:41:52Z",
-    "pushed_at": "2026-10-27T09:07:01Z",
+    "pushed_at": "2026-11-02T03:16:25Z",
     "license": "OFL-1.1"
   },
   {
@@ -3091,8 +3077,8 @@
     "html_url": "https://github.com/mihomo-party-org/clash-party",
     "description": ":electron: Another Mihomo GUI. ",
     "language": "TypeScript",
-    "stargazers_count": 27067,
-    "forks_count": 2129,
+    "stargazers_count": 27082,
+    "forks_count": 2130,
     "topics": [
       "clash",
       "clash-meta",
@@ -3110,8 +3096,8 @@
     "html_url": "https://github.com/qier222/YesPlayMusic",
     "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: ",
     "language": "Vue",
-    "stargazers_count": 33513,
-    "forks_count": 4667,
+    "stargazers_count": 33516,
+    "forks_count": 4668,
     "topics": [
       "electron",
       "javascript",
@@ -3149,7 +3135,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2021-02-14T16:08:16Z",
-    "pushed_at": "2026-10-31T20:49:59Z",
+    "pushed_at": "2026-11-02T09:01:36Z",
     "license": "GPL-3.0"
   },
   {
@@ -3157,8 +3143,8 @@
     "html_url": "https://github.com/MarSeventh/CloudFlare-ImgBed",
     "description": "🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.",
     "language": "JavaScript",
-    "stargazers_count": 6844,
-    "forks_count": 8737,
+    "stargazers_count": 6849,
+    "forks_count": 8741,
     "topics": [
       "asset-management",
       "cloud-native",
@@ -3186,7 +3172,7 @@
     "html_url": "https://github.com/libnyanpasu/clash-nyanpasu",
     "description": "Clash Nyanpasu～(∠・ω< )⌒☆​",
     "language": "Rust",
-    "stargazers_count": 13270,
+    "stargazers_count": 13278,
     "forks_count": 808,
     "topics": [
       "clash",
@@ -3204,7 +3190,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2023-11-10T01:25:55Z",
-    "pushed_at": "2026-11-01T09:24:47Z",
+    "pushed_at": "2026-11-02T11:00:23Z",
     "license": "GPL-3.0"
   },
   {
@@ -3212,7 +3198,7 @@
     "html_url": "https://github.com/Loyalsoldier/clash-rules",
     "description": "🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。",
     "language": null,
-    "stargazers_count": 29086,
+    "stargazers_count": 29097,
     "forks_count": 2222,
     "topics": [
       "adblock",
@@ -3236,7 +3222,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2020-07-30T23:53:49Z",
-    "pushed_at": "2026-10-31T22:34:41Z",
+    "pushed_at": "2026-11-01T22:34:40Z",
     "license": "GPL-3.0"
   },
   {
@@ -3244,7 +3230,7 @@
     "html_url": "https://github.com/orz12/PiliPalaX",
     "description": "PiliPalaX 是使用Flutter开发的BiliBili第三方客户端，感谢使用，欢迎Star。",
     "language": "Dart",
-    "stargazers_count": 3388,
+    "stargazers_count": 3389,
     "forks_count": 101,
     "topics": [],
     "archived": true,
@@ -3297,7 +3283,7 @@
     "description": "🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop & taskbar lyrics, cloud music drive, local library management, audio spectrum visualization and mobile-friendly UI. 简约的跨平台音乐播放器，支持逐字歌词、桌面歌词、任务栏歌词、云盘音乐、本地音乐管理及流媒体播放",
     "language": "TypeScript",
     "stargazers_count": 7366,
-    "forks_count": 1198,
+    "forks_count": 1196,
     "topics": [
       "cross-platform",
       "emby",
@@ -3328,8 +3314,8 @@
     "html_url": "https://github.com/Meloong-Git/PCL",
     "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
     "language": "Visual Basic .NET",
-    "stargazers_count": 9514,
-    "forks_count": 1606,
+    "stargazers_count": 9535,
+    "forks_count": 1616,
     "topics": [
       "launcher",
       "minecraft",
@@ -3346,8 +3332,8 @@
     "html_url": "https://github.com/Anduin2017/HowToCook",
     "description": "Programmer's guide about how to cook at home.",
     "language": null,
-    "stargazers_count": 103423,
-    "forks_count": 11185,
+    "stargazers_count": 103450,
+    "forks_count": 11189,
     "topics": [
       "chinese",
       "cookbook",
@@ -3367,7 +3353,7 @@
     "description": "A Bangumi Based Light, Functional and Modern Local Anime Manager | 基于bangumi数据库的本地番剧管理、播放与进度同步客户端",
     "language": "JavaScript",
     "stargazers_count": 73,
-    "forks_count": 0,
+    "forks_count": 1,
     "topics": [
       "bangumi",
       "electron",
@@ -3385,8 +3371,8 @@
     "html_url": "https://github.com/open-ani/animeko",
     "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
     "language": "Kotlin",
-    "stargazers_count": 21386,
-    "forks_count": 640,
+    "stargazers_count": 21426,
+    "forks_count": 643,
     "topics": [
       "android",
       "ani",
@@ -3411,7 +3397,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2022-07-31T17:38:49Z",
-    "pushed_at": "2026-11-01T03:26:50Z",
+    "pushed_at": "2026-11-02T09:34:15Z",
     "license": "AGPL-3.0"
   },
   {
@@ -3419,8 +3405,8 @@
     "html_url": "https://github.com/clash-verge-rev/clash-verge-rev",
     "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
     "language": "Rust",
-    "stargazers_count": 155459,
-    "forks_count": 11177,
+    "stargazers_count": 155685,
+    "forks_count": 11192,
     "topics": [
       "clash",
       "clash-meta",
@@ -3434,7 +3420,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2023-11-21T18:24:03Z",
-    "pushed_at": "2026-11-01T09:13:57Z",
+    "pushed_at": "2026-11-02T11:01:30Z",
     "license": "GPL-3.0"
   },
   {
@@ -3442,8 +3428,8 @@
     "html_url": "https://github.com/MetaCubeX/mihomo",
     "description": "A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.",
     "language": "Python",
-    "stargazers_count": 35409,
-    "forks_count": 4693,
+    "stargazers_count": 35443,
+    "forks_count": 4698,
     "topics": [
       "honkai-star-rail",
       "mihomo",
@@ -3461,7 +3447,7 @@
     "html_url": "https://github.com/GUI-for-Cores/GUI.for.Clash",
     "description": "Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.",
     "language": "TypeScript",
-    "stargazers_count": 2833,
+    "stargazers_count": 2835,
     "forks_count": 168,
     "topics": [
       "clash",
@@ -3474,7 +3460,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2023-11-25T15:22:35Z",
-    "pushed_at": "2026-10-30T09:16:59Z",
+    "pushed_at": "2026-11-02T08:29:12Z",
     "license": "GPL-3.0"
   },
   {
@@ -3482,7 +3468,7 @@
     "html_url": "https://github.com/lizongying/my-tv",
     "description": "我的电视 电视直播软件，安装即可使用",
     "language": "C",
-    "stargazers_count": 31965,
+    "stargazers_count": 31967,
     "forks_count": 3585,
     "topics": [
       "iptv",
@@ -3501,8 +3487,8 @@
     "html_url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
     "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
     "language": "Batchfile",
-    "stargazers_count": 197163,
-    "forks_count": 18683,
+    "stargazers_count": 197322,
+    "forks_count": 18693,
     "topics": [
       "activator",
       "hwid",
@@ -3532,7 +3518,7 @@
     "html_url": "https://github.com/LC044/WeChatMsg",
     "description": null,
     "language": null,
-    "stargazers_count": 42314,
+    "stargazers_count": 42320,
     "forks_count": 5411,
     "topics": [
       "chatgpt",
@@ -3575,8 +3561,8 @@
     "html_url": "https://github.com/Loyalsoldier/v2ray-rules-dat",
     "description": "🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.",
     "language": null,
-    "stargazers_count": 20984,
-    "forks_count": 2775,
+    "stargazers_count": 20986,
+    "forks_count": 2779,
     "topics": [
       "adblock",
       "adguard",
@@ -3602,7 +3588,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2019-12-10T03:19:35Z",
-    "pushed_at": "2026-10-31T22:04:28Z",
+    "pushed_at": "2026-11-01T22:04:37Z",
     "license": "GPL-3.0"
   },
   {
@@ -3610,7 +3596,7 @@
     "html_url": "https://github.com/SukkaW/Surge",
     "description": "Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash",
     "language": "TypeScript",
-    "stargazers_count": 4621,
+    "stargazers_count": 4624,
     "forks_count": 323,
     "topics": [
       "clash",
@@ -3662,7 +3648,7 @@
     "html_url": "https://github.com/XIU2/TrackersListCollection",
     "description": "🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！",
     "language": null,
-    "stargazers_count": 32360,
+    "stargazers_count": 32371,
     "forks_count": 1792,
     "topics": [
       "aria2",
@@ -3680,7 +3666,7 @@
     "archived": false,
     "fork": false,
     "created_at": "2019-10-03T15:55:07Z",
-    "pushed_at": "2026-11-01T00:13:49Z",
+    "pushed_at": "2026-11-02T00:11:48Z",
     "license": "GPL-3.0"
   },
   {
@@ -3707,8 +3693,8 @@
     "html_url": "https://github.com/weekend-project-space/top-rss-list",
     "description": "订阅人数最多的rss源，中文优质rss源",
     "language": null,
-    "stargazers_count": 6691,
-    "forks_count": 267,
+    "stargazers_count": 6695,
+    "forks_count": 266,
     "topics": [
       "rss",
       "rss-feed",
@@ -3725,13 +3711,13 @@
     "html_url": "https://github.com/BakaXL-Launcher/BakaXL",
     "description": "BakaXL 项目门户 / BakaXL Project's Portal",
     "language": null,
-    "stargazers_count": 546,
+    "stargazers_count": 548,
     "forks_count": 51,
     "topics": [],
     "archived": false,
     "fork": false,
     "created_at": "2019-12-26T06:12:52Z",
-    "pushed_at": "2026-10-30T19:54:21Z",
+    "pushed_at": "2026-11-02T08:15:12Z",
     "license": null
   },
   {
@@ -3739,7 +3725,7 @@
     "html_url": "https://github.com/ByteLegend/ByteLegend",
     "description": "Enjoy programming while playing a game.",
     "language": "Java",
-    "stargazers_count": 3683,
+    "stargazers_count": 3682,
     "forks_count": 143,
     "topics": [
       "game",
